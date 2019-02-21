@@ -7195,17 +7195,42 @@ h4, .h4 {
     background-position: center;
     background-image: url("/images/Web_BG_pfade.svg"); } }
 
-#DateSection {
+.section {
   background-size: cover;
   background-position: center;
+  background-image: url("/images/bg/bg.png"); }
+
+#DateSection {
   background-image: url("/images/bg/About.jpg"); }
 
 #LocationSection {
-  background-size: cover;
-  background-position: center;
   background-image: url("/images/bg/Location.jpg"); }
 
 #ProgrammSection {
-  background-size: cover;
-  background-position: center;
   background-image: url("/images/bg/Programm.jpg"); }
+
+#PartnerSection {
+  background-image: url("/images/bg/Partner.jpg"); }
+
+.lswt-card-columns .card {
+  margin-bottom: 0.75rem; }
+
+@media (min-width: 576px) {
+  .lswt-card-columns {
+    column-count: 2;
+    column-gap: 1.25rem;
+    orphans: 1;
+    widows: 1; }
+    .lswt-card-columns .card {
+      display: inline-block;
+      width: 100%; } }
+
+@media (min-width: 992px) {
+  .lswt-card-columns {
+    column-count: 3;
+    column-gap: 1.25rem;
+    orphans: 1;
+    widows: 1; }
+    .lswt-card-columns .card {
+      display: inline-block;
+      width: 100%; } }
