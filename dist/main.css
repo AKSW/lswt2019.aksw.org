@@ -7197,19 +7197,15 @@ h4, .h4 {
 
 .section {
   background-size: cover;
-  background-position: center;
-  background-image: url("/images/bg/bg.png"); }
-
-#DateSection {
-  background-image: url("/images/bg/About.jpg"); }
+  background-position: center; }
 
 #LocationSection {
+  background-image: url("/images/bg/About.jpg"); }
+
+#TeamSection {
   background-image: url("/images/bg/Location.jpg"); }
 
-#ProgrammSection {
-  background-image: url("/images/bg/Programm.jpg"); }
-
-#PartnerSection {
+#PreviousSection {
   background-image: url("/images/bg/Partner.jpg"); }
 
 .lswt-card-columns .card {
