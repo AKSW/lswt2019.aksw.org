@@ -7264,23 +7264,19 @@ h4, .h4 {
 .dark-theme {
   color: #e8ebed; }
 
-.dark-theme a {
-  color: #8bc3ff; }
+a {
+  color: #3887a7; }
 
-.dark-theme a:hover {
-  color: #71b5ff; }
+.btn-success {
+  background-color: #b72c37;
+  border-color: #b72c37; }
 
-.bluebg-theme a {
-  color: #8bc3ff; }
+.jumbotron {
+  background-color: #fff; }
 
-.bluebg-theme a:hover {
-  color: #71b5ff; }
-
-.light-theme a {
-  color: #0056b3; }
-
-.light-theme a:hover {
-  color: #003d80; }
+.jumbotron-program {
+  padding-top: 2rem;
+  padding-bottom: 2rem; }
 
 #HomeSection {
   background-size: cover;
@@ -7307,9 +7303,21 @@ h4, .h4 {
 #PartnerSection {
   background-image: url("/images/bg/Partner.jpg"); }
 
+.pause {
+  color: grey;
+  font-size: 1.1em;
+  font-style: italic; }
+
 @media (min-width: 768px) {
   .w-md-40 {
     width: 40%; } }
+
+.fp-controlArrow {
+  margin-right: 3rem;
+  margin-left: 3rem; }
+
+.jumbotron-program h3 {
+  margin-bottom: 0rem; }
 
 .lswt-card-columns .card {
   margin-bottom: 0.75rem; }
