@@ -31,7 +31,7 @@
   schema:endDate "2019-05-22"^^xsd:date ;
   schema:location lswt:Location ;
   site:rooms [ rdf:_1 lswt:kosmos ; rdf:_2 lswt:tutorialraum ; rdf:_3 lswt:hackathonraum ; rdf:_4 lswt:dachterrasse ]  ;
-  site:registrationPage <https://pretix.eu/infai/lswt2019/> ;
+  site:registrationPage site:registrationPage ;
   schema:organizer lswt:Team ;
   schema:partner lswt:Partner ;
   schema:subEvent lswt:begruessung,
@@ -47,6 +47,12 @@
 schema:startDate rdfs:label "Datum"@de, "Date"@en .
 schema:location rdfs:label "Ort"@de, "Place"@en .
 site:registrationPage rdfs:label "Anmeldung"@de, "Registration"@en .
+
+lswt:RegistrationComment
+  rdf:subject <> ;
+  rdf:predicate site:registrationPage ;
+  rdf:object site:registrationPage ;
+  rdfs:label "Der Ticketverkauf endet am 19.5."@de, "Registration is open untill May 19th."@en .
 
 lswt:Location a schema:PostalAddress ;
   rdfs:label "Veranstaltungsort"@de, "Venue"@en ;
