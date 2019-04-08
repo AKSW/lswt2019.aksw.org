@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schedule>
-    <version>2019-04-08_17-01</version>
-    <conference><title>7. Leipziger Semantic Web Tag</title>
+    <version>2019-04-08_17-17</version>
+    <conference><title>7th Leipzig Semantic Web Day</title>
         <acronym></acronym>
         <start>2019-05-22</start>
         <end>2019-05-22</end>
         <generator>Jekyll v3.6.3</generator>
     </conference>
     <day date="2019-05-22" start="2019-05-22" end="2019-05-22" index="1">
-        <room name="Main Track">
+        <room name="Vorträge">
             
             <event id="101">
                 <title>Begrüßung</title>
@@ -16,8 +16,8 @@
                 <start>09:00</start>
                 <duration>00:10</duration>
                 <person>Andreas Heinecke, Dr. Sebastian Tramp</person>
-                <track>Main Track</track>
-                <room>Main Track</room>
+                <track>Vorträge</track>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#begruessung</slug>
             </event>
@@ -30,7 +30,7 @@
                 <duration>00:30</duration>
                 <person>Professor Dr. Andreas Both</person>
                 <track>Keynote</track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[…]]></description>
                 <slug>https://lswt2019.aksw.org/#keynoteBoth</slug>
             </event>
@@ -43,7 +43,7 @@
                 <duration>00:20</duration>
                 <person>Markus Freudenberg</person>
                 <track>Linked Data in Enterprise Use-Cases</track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkFreudenberg</slug>
             </event>
@@ -56,7 +56,7 @@
                 <duration>00:20</duration>
                 <person>Dr.-Ing. Sebastian Hellmann</person>
                 <track>Linked Data in Enterprise Use-Cases</track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkHellmann</slug>
             </event>
@@ -69,20 +69,20 @@
                 <duration>00:20</duration>
                 <person>Dr. Sebastian Tramp</person>
                 <track>Linked Data in Enterprise Use-Cases</track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkSeebi</slug>
             </event>
         
             
             <event id="997">
-                <title>Kaffeepause</title>
+                <title>Coffee Break</title>
                 <date>2019-05-22T11:00:00Z</date>
                 <start>11:00</start>
                 <duration>00:15</duration>
                 <person></person>
-                <track>Pause</track>
-                <room>Main Track</room>
+                <track>Break</track>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#ersteKaffeePause</slug>
             </event>
@@ -95,7 +95,7 @@
                 <duration>00:20</duration>
                 <person>Professor Dr. Sören Auer</person>
                 <track>Linking Research</track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkAuer</slug>
             </event>
@@ -108,7 +108,7 @@
                 <duration>00:20</duration>
                 <person>Professor Dr. Birgitta König-Ries</person>
                 <track>Linking Research</track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkKoenigRies</slug>
             </event>
@@ -121,7 +121,7 @@
                 <duration>00:20</duration>
                 <person>Stefan Wolff</person>
                 <track>Linking Research</track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkWolff</slug>
             </event>
@@ -133,8 +133,8 @@
                 <start>12:15</start>
                 <duration>01:15</duration>
                 <person></person>
-                <track>Pause</track>
-                <room>Main Track</room>
+                <track>Break</track>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#MittagsPause</slug>
             </event>
@@ -147,7 +147,7 @@
                 <duration>00:30</duration>
                 <person></person>
                 <track>Keynote</track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[…]]></description>
                 <slug>https://lswt2019.aksw.org/#keynote2</slug>
             </event>
@@ -160,33 +160,33 @@
                 <duration>00:20</duration>
                 <person>Natanael Arndt</person>
                 <track>Data Networks</track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkArndt</slug>
             </event>
         
             
             <event id="999">
-                <title>Kaffeepause und Postersession</title>
+                <title>Coffee Break and Postersession</title>
                 <date>2019-05-22T15:30:00Z</date>
                 <start>15:30</start>
                 <duration>00:45</duration>
                 <person></person>
-                <track>Pause</track>
-                <room>Main Track</room>
+                <track>Break</track>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#zweiteKaffeePause</slug>
             </event>
         
             
             <event id="1227">
-                <title>Poster Gewinner und Abschluss</title>
+                <title>Poster Winner and Closing</title>
                 <date>2019-05-22T17:30:00Z</date>
                 <start>17:30</start>
                 <duration>00:30</duration>
                 <person></person>
-                <track>Main Track</track>
-                <room>Main Track</room>
+                <track>Vorträge</track>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#closing</slug>
             </event>
@@ -196,12 +196,12 @@
         <room name="Tutorials">
             
             <event id="997">
-                <title>Kaffeepause</title>
+                <title>Coffee Break</title>
                 <date>2019-05-22T11:00:00Z</date>
                 <start>11:00</start>
                 <duration>00:15</duration>
                 <person></person>
-                <track>Pause</track>
+                <track>Break</track>
                 <room>Tutorials</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#ersteKaffeePause</slug>
@@ -214,7 +214,7 @@
                 <start>12:15</start>
                 <duration>01:15</duration>
                 <person></person>
-                <track>Pause</track>
+                <track>Break</track>
                 <room>Tutorials</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#MittagsPause</slug>
@@ -235,12 +235,12 @@
         
             
             <event id="999">
-                <title>Kaffeepause und Postersession</title>
+                <title>Coffee Break and Postersession</title>
                 <date>2019-05-22T15:30:00Z</date>
                 <start>15:30</start>
                 <duration>00:45</duration>
                 <person></person>
-                <track>Pause</track>
+                <track>Break</track>
                 <room>Tutorials</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#zweiteKaffeePause</slug>
@@ -304,7 +304,7 @@
         
         </room>
     
-        <room name="Dachterrasse">
+        <room name="Roof Garden">
             
             <event id="1337">
                 <title>Social Event sponsored by eccenca GmbH</title>
@@ -312,9 +312,9 @@
                 <start>18:00</start>
                 <duration>04:00</duration>
                 <person></person>
-                <track>Dachterrasse</track>
-                <room>Dachterrasse</room>
-                <description><![CDATA[We are happy to invite you to the social event “Semantic Beer Garden” in the INNSIDE Hotel on the roof terrace! ]]></description>
+                <track>Roof Garden</track>
+                <room>Roof Garden</room>
+                <description><![CDATA[Wir freuen uns herzlich Sie zum Social Event „Semantic Biergarten“ im INNSIDE Hotel auf der Dachterrasse einzuladen!]]></description>
                 <slug>https://lswt2019.aksw.org/#beergarden</slug>
             </event>
         
