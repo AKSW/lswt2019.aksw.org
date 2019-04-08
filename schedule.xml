@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schedule>
-    <version>2019-04-08_16-19</version>
-    <conference><title>7th Leipzig Semantic Web Day</title>
+    <version>2019-04-08_16-32</version>
+    <conference><title>7. Leipziger Semantic Web Tag</title>
         <acronym></acronym>
         <start>2019-05-22</start>
         <end>2019-05-22</end>
@@ -11,11 +11,11 @@
         <room name="Vorträge">
             
             <event id="101">
-                <title>Begrüßung</title>
+                <title>Welcome</title>
                 <date>2019-05-22T09:00:00Z</date>
                 <start>09:00</start>
                 <duration>00:10</duration>
-                <person>Andreas Heinecke, Dr. Sebastian Tramp</person>
+                <person>Dr. Sebastian Tramp, Andreas Heinecke</person>
                 <track>Vorträge</track>
                 <room>Vorträge</room>
                 <description><![CDATA[]]></description>
@@ -76,12 +76,12 @@
         
             
             <event id="997">
-                <title>Kaffeepause</title>
+                <title>Coffee Break</title>
                 <date>2019-05-22T11:00:00Z</date>
                 <start>11:00</start>
                 <duration>00:15</duration>
                 <person></person>
-                <track>Break</track>
+                <track>Pause</track>
                 <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#ersteKaffeePause</slug>
@@ -133,7 +133,7 @@
                 <start>12:15</start>
                 <duration>01:15</duration>
                 <person></person>
-                <track>Break</track>
+                <track>Pause</track>
                 <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#MittagsPause</slug>
@@ -167,12 +167,12 @@
         
             
             <event id="999">
-                <title>Coffee Break and Postersession</title>
+                <title>Kaffeepause und Postersession</title>
                 <date>2019-05-22T15:30:00Z</date>
                 <start>15:30</start>
                 <duration>00:45</duration>
                 <person></person>
-                <track>Break</track>
+                <track>Pause</track>
                 <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#zweiteKaffeePause</slug>
@@ -180,7 +180,7 @@
         
             
             <event id="1227">
-                <title>Poster Winner and Closing</title>
+                <title>Poster Gewinner und Abschluss</title>
                 <date>2019-05-22T17:30:00Z</date>
                 <start>17:30</start>
                 <duration>00:30</duration>
@@ -196,12 +196,12 @@
         <room name="Tutorials">
             
             <event id="997">
-                <title>Kaffeepause</title>
+                <title>Coffee Break</title>
                 <date>2019-05-22T11:00:00Z</date>
                 <start>11:00</start>
                 <duration>00:15</duration>
                 <person></person>
-                <track>Break</track>
+                <track>Pause</track>
                 <room>Tutorials</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#ersteKaffeePause</slug>
@@ -214,7 +214,7 @@
                 <start>12:15</start>
                 <duration>01:15</duration>
                 <person></person>
-                <track>Break</track>
+                <track>Pause</track>
                 <room>Tutorials</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#MittagsPause</slug>
@@ -235,12 +235,12 @@
         
             
             <event id="999">
-                <title>Coffee Break and Postersession</title>
+                <title>Kaffeepause und Postersession</title>
                 <date>2019-05-22T15:30:00Z</date>
                 <start>15:30</start>
                 <duration>00:45</duration>
                 <person></person>
-                <track>Break</track>
+                <track>Pause</track>
                 <room>Tutorials</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#zweiteKaffeePause</slug>
@@ -303,7 +303,7 @@
         
         </room>
     
-        <room name="Dachterrasse">
+        <room name="Roof Garden">
             
             <event id="1337">
                 <title>Social Event sponsored by eccenca GmbH</title>
@@ -311,9 +311,9 @@
                 <start>18:00</start>
                 <duration>04:00</duration>
                 <person></person>
-                <track>Dachterrasse</track>
-                <room>Dachterrasse</room>
-                <description><![CDATA[Wir freuen uns herzlich Sie zum Social Event „Semantic Biergarten“ im INNSIDE Hotel auf der Dachterrasse einzuladen!]]></description>
+                <track>Roof Garden</track>
+                <room>Roof Garden</room>
+                <description><![CDATA[We are happy to invite you to the social event “Semantic Beer Garden” in the INNSIDE Hotel on the roof terrace! ]]></description>
                 <slug>https://lswt2019.aksw.org/#beergarden</slug>
             </event>
         
