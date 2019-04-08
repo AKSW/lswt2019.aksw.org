@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schedule>
-    <version>2019-04-08_17-07</version>
-    <conference><title>7. Leipziger Semantic Web Tag</title>
+    <version>2019-04-08_17-21</version>
+    <conference><title>7th Leipzig Semantic Web Day</title>
         <acronym></acronym>
         <start>2019-05-22</start>
         <end>2019-05-22</end>
         <generator>Jekyll v3.6.3</generator>
     </conference>
     <day date="2019-05-22" start="2019-05-22" end="2019-05-22" index="1">
-        <room name="Main Track">
+        <room name="Vorträge">
             
             <event id="101">
-                <title>Welcome</title>
+                <title>Begrüßung</title>
                 <date>2019-05-22T09:00:00Z</date>
                 <start>09:00</start>
                 <duration>00:10</duration>
-                <person>Andreas Heinecke, Dr. Sebastian Tramp</person>
-                <track>Main Track</track>
-                <room>Main Track</room>
+                <person>Dr. Sebastian Tramp, Andreas Heinecke</person>
+                <track>Vorträge</track>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#begruessung</slug>
             </event>
@@ -30,7 +30,7 @@
                 <duration>00:30</duration>
                 <person>Professor Dr. Andreas Both</person>
                 <track>Keynote</track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[…]]></description>
                 <slug>https://lswt2019.aksw.org/#keynoteBoth</slug>
             </event>
@@ -43,7 +43,7 @@
                 <duration>00:20</duration>
                 <person>Markus Freudenberg</person>
                 <track>Linked Data in Enterprise Use-Cases</track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkFreudenberg</slug>
             </event>
@@ -56,7 +56,7 @@
                 <duration>00:20</duration>
                 <person>Dr.-Ing. Sebastian Hellmann</person>
                 <track>Linked Data in Enterprise Use-Cases</track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkHellmann</slug>
             </event>
@@ -69,7 +69,7 @@
                 <duration>00:20</duration>
                 <person>Dr. Sebastian Tramp</person>
                 <track>Linked Data in Enterprise Use-Cases</track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkSeebi</slug>
             </event>
@@ -81,8 +81,8 @@
                 <start>11:00</start>
                 <duration>00:15</duration>
                 <person></person>
-                <track>Pause</track>
-                <room>Main Track</room>
+                <track>Break</track>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#ersteKaffeePause</slug>
             </event>
@@ -95,7 +95,7 @@
                 <duration>00:20</duration>
                 <person>Professor Dr. Sören Auer</person>
                 <track>Linking Research</track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkAuer</slug>
             </event>
@@ -108,7 +108,7 @@
                 <duration>00:20</duration>
                 <person>Professor Dr. Birgitta König-Ries</person>
                 <track>Linking Research</track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkKoenigRies</slug>
             </event>
@@ -121,20 +121,20 @@
                 <duration>00:20</duration>
                 <person>Stefan Wolff</person>
                 <track>Linking Research</track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkWolff</slug>
             </event>
         
             
             <event id="998">
-                <title>Mittagspause</title>
+                <title>Lunch Break</title>
                 <date>2019-05-22T12:15:00Z</date>
                 <start>12:15</start>
                 <duration>01:15</duration>
                 <person></person>
-                <track>Pause</track>
-                <room>Main Track</room>
+                <track>Break</track>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#MittagsPause</slug>
             </event>
@@ -147,7 +147,7 @@
                 <duration>00:30</duration>
                 <person></person>
                 <track>Keynote</track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[…]]></description>
                 <slug>https://lswt2019.aksw.org/#keynote2</slug>
             </event>
@@ -160,7 +160,7 @@
                 <duration>00:20</duration>
                 <person>Natanael Arndt</person>
                 <track>Data Networks</track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkArndt</slug>
             </event>
@@ -172,8 +172,8 @@
                 <start>15:30</start>
                 <duration>00:45</duration>
                 <person></person>
-                <track>Pause</track>
-                <room>Main Track</room>
+                <track>Break</track>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#zweiteKaffeePause</slug>
             </event>
@@ -185,8 +185,8 @@
                 <start>17:30</start>
                 <duration>00:30</duration>
                 <person></person>
-                <track>Main Track</track>
-                <room>Main Track</room>
+                <track>Vorträge</track>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#closing</slug>
             </event>
@@ -201,7 +201,7 @@
                 <start>11:00</start>
                 <duration>00:15</duration>
                 <person></person>
-                <track>Pause</track>
+                <track>Break</track>
                 <room>Tutorials</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#ersteKaffeePause</slug>
@@ -209,12 +209,12 @@
         
             
             <event id="998">
-                <title>Mittagspause</title>
+                <title>Lunch Break</title>
                 <date>2019-05-22T12:15:00Z</date>
                 <start>12:15</start>
                 <duration>01:15</duration>
                 <person></person>
-                <track>Pause</track>
+                <track>Break</track>
                 <room>Tutorials</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#MittagsPause</slug>
@@ -240,7 +240,7 @@
                 <start>15:30</start>
                 <duration>00:45</duration>
                 <person></person>
-                <track>Pause</track>
+                <track>Break</track>
                 <room>Tutorials</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#zweiteKaffeePause</slug>
@@ -248,7 +248,7 @@
         
             
             <event id="202">
-                <title>Jekyll RDF Benutzung</title>
+                <title>Using Jekyll RDF</title>
                 <date>2019-05-22T16:15:00Z</date>
                 <start>16:15</start>
                 <duration>00:45</duration>
@@ -259,11 +259,11 @@
 <p><a href="https://jekyllrb.com/">Jekyll</a> ist ein Werkzeug zur simplen Erzeugung von statischen Webseiten oder Blogs. Durch eine große Auswahl an Plugins und Themes lassen sich auch sehr mächtige und vielseitige Webseiten erstellen. <a href="https://github.com/white-gecko/jekyll-rdf">Jekyll RDF</a> (<a href="https://rubygems.org/gems/jekyll-rdf">rubygem</a>) erweitert Jekyll um die Möglichkeit Seiten mit Daten aus einem RDF-Graphen anzureichern. Diese Möglichkeit reicht so weit, dass ganze Webseiten ihren vollständigen Inhalt aus einem RDF-Graphen erhalten. So ist Jekyll RDF ein einfaches Werkzeug, um RDF-Daten für Menschen lesbar im Web zu publizieren. (Jekyll steckt übrigens auch hinter GitHub-Pages und Ihr könnt Seiten die mit Jekyll erzeugt wurden auch auf GitHub-Pages veröffentlichen.)</p>
 <h4 id="was-lernt-ihr-im-tutorial">Was lernt Ihr im Tutorial</h4>
 <p>Im Tutorial lernt Ihr Jekyll mit seiner Template-Sprache kennen und wir erzeugen einfache Jekyll-Templates. Anschließend binden wir einen RDF-Graphen ein und erweitern die Jekyll-Templates um die RDF-spezifischen Filter. Nach dem Tutorial wisst ihr, wie man Jekyll bedient und einen RDF-Graphen anschaulich publizieren könnt.</p>
-<h4 id="voraussetzungenrequirements-1">Requirements</h4>
-<p>Please bring this to the tutorial:</p>
+<h4 id="voraussetzungenrequirements-1">Voraussetzungen</h4>
+<p>Bitte bringen Sie folgendes zum Tutorial mit:</p>
 <ul>
   <li>Laptop</li>
-  <li>ruby &gt;= 2.1 with bundler or docker</li>
+  <li>ruby &gt;= 2.1 mit bundler oder docker</li>
 </ul>
     ]]></description>
                 <slug>https://lswt2019.aksw.org/#jekyllrdf</slug>
@@ -304,7 +304,7 @@
         
         </room>
     
-        <room name="Roof Garden">
+        <room name="Dachterrasse">
             
             <event id="1337">
                 <title>Social Event sponsored by eccenca GmbH</title>
@@ -312,9 +312,9 @@
                 <start>18:00</start>
                 <duration>04:00</duration>
                 <person></person>
-                <track>Roof Garden</track>
-                <room>Roof Garden</room>
-                <description><![CDATA[Wir freuen uns herzlich Sie zum Social Event „Semantic Biergarten“ im INNSIDE Hotel auf der Dachterrasse einzuladen!]]></description>
+                <track>Dachterrasse</track>
+                <room>Dachterrasse</room>
+                <description><![CDATA[We are happy to invite you to the social event “Semantic Beer Garden” in the INNSIDE Hotel on the roof terrace! ]]></description>
                 <slug>https://lswt2019.aksw.org/#beergarden</slug>
             </event>
         
