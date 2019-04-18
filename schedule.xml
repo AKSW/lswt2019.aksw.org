@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schedule>
-    <version>2019-04-18_12-04</version>
-    <conference><title>7th Leipzig Semantic Web Day</title>
+    <version>2019-04-18_14-06</version>
+    <conference><title>7. Leipziger Semantic Web Tag</title>
         <acronym></acronym>
         <start>2019-05-22</start>
         <end>2019-05-22</end>
@@ -11,7 +11,7 @@
         <room name="Vorträge">
             
             <event id="101">
-                <title>Begrüßung</title>
+                <title>Welcome</title>
                 <date>2019-05-22T09:00:00Z</date>
                 <start>09:00</start>
                 <duration>00:10</duration>
@@ -56,22 +56,9 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         
             
             <event id="112">
-                <title>The DBpedia databus</title>
+                <title>Das LIMBO Projekt: Linked Data Enterprise Use-Cases unter Verwendung der Daten des Bundes</title>
                 <date>2019-05-22T10:00:00Z</date>
                 <start>10:00</start>
-                <duration>00:20</duration>
-                <person>Dr.-Ing. Sebastian Hellmann</person>
-                <track>Linked Data in Enterprise Use-Cases</track>
-                <room>Vorträge</room>
-                <description><![CDATA[]]></description>
-                <slug>https://lswt2019.aksw.org/#talkHellmann</slug>
-            </event>
-        
-            
-            <event id="113">
-                <title>Das LIMBO Projekt: Linked Data Enterprise Use-Cases unter Verwendung der Daten des Bundes</title>
-                <date>2019-05-22T10:20:00Z</date>
-                <start>10:20</start>
                 <duration>00:20</duration>
                 <person>Dr. Sebastian Tramp</person>
                 <track>Linked Data in Enterprise Use-Cases</track>
@@ -159,10 +146,23 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
             </event>
         
             
-            <event id="132">
-                <title>PlatonaM: Plattform-Ökosystem for innovative maintenance management through predictive maintenance</title>
+            <event id="131">
+                <title>The DBpedia databus</title>
                 <date>2019-05-22T14:00:00Z</date>
                 <start>14:00</start>
+                <duration>00:20</duration>
+                <person>Dr.-Ing. Sebastian Hellmann</person>
+                <track>Data Networks</track>
+                <room>Vorträge</room>
+                <description><![CDATA[]]></description>
+                <slug>https://lswt2019.aksw.org/#talkHellmann</slug>
+            </event>
+        
+            
+            <event id="132">
+                <title>PlatonaM: Plattform-Ökosystem for innovative maintenance management through predictive maintenance</title>
+                <date>2019-05-22T14:20:00Z</date>
+                <start>14:20</start>
                 <duration>00:20</duration>
                 <person>Natanael Arndt</person>
                 <track>Data Networks</track>
@@ -173,7 +173,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         
             
             <event id="999">
-                <title>Kaffeepause und Postersession</title>
+                <title>Coffee Break and Postersession</title>
                 <date>2019-05-22T15:30:00Z</date>
                 <start>15:30</start>
                 <duration>00:45</duration>
@@ -199,7 +199,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         
             
             <event id="1227">
-                <title>Poster Winner and Closing</title>
+                <title>Poster Gewinner und Abschluss</title>
                 <date>2019-05-22T17:30:00Z</date>
                 <start>17:30</start>
                 <duration>00:30</duration>
@@ -254,7 +254,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         
             
             <event id="999">
-                <title>Kaffeepause und Postersession</title>
+                <title>Coffee Break and Postersession</title>
                 <date>2019-05-22T15:30:00Z</date>
                 <start>15:30</start>
                 <duration>00:45</duration>
@@ -278,11 +278,11 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
 <p><a href="https://jekyllrb.com/">Jekyll</a> ist ein Werkzeug zur simplen Erzeugung von statischen Webseiten oder Blogs. Durch eine große Auswahl an Plugins und Themes lassen sich auch sehr mächtige und vielseitige Webseiten erstellen. <a href="https://github.com/white-gecko/jekyll-rdf">Jekyll RDF</a> (<a href="https://rubygems.org/gems/jekyll-rdf">rubygem</a>) erweitert Jekyll um die Möglichkeit Seiten mit Daten aus einem RDF-Graphen anzureichern. Diese Möglichkeit reicht so weit, dass ganze Webseiten ihren vollständigen Inhalt aus einem RDF-Graphen erhalten. So ist Jekyll RDF ein einfaches Werkzeug, um RDF-Daten für Menschen lesbar im Web zu publizieren. (Jekyll steckt übrigens auch hinter GitHub-Pages und Ihr könnt Seiten die mit Jekyll erzeugt wurden auch auf GitHub-Pages veröffentlichen.)</p>
 <h4 id="was-lernt-ihr-im-tutorial">Was lernt Ihr im Tutorial</h4>
 <p>Im Tutorial lernt Ihr Jekyll mit seiner Template-Sprache kennen und wir erzeugen einfache Jekyll-Templates. Anschließend binden wir einen RDF-Graphen ein und erweitern die Jekyll-Templates um die RDF-spezifischen Filter. Nach dem Tutorial wisst ihr, wie man Jekyll bedient und einen RDF-Graphen anschaulich publizieren könnt.</p>
-<h4 id="voraussetzungenrequirements-1">Requirements</h4>
-<p>Please bring this to the tutorial:</p>
+<h4 id="voraussetzungenrequirements-1">Voraussetzungen</h4>
+<p>Bitte bringen Sie folgendes zum Tutorial mit:</p>
 <ul>
   <li>Laptop</li>
-  <li>ruby &gt;= 2.1 with bundler or docker</li>
+  <li>ruby &gt;= 2.1 mit bundler oder docker</li>
 </ul>
     ]]></description>
                 <slug>https://lswt2019.aksw.org/#jekyllrdf</slug>
