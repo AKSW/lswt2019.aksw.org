@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schedule>
-    <version>2019-04-18_11-27</version>
+    <version>2019-04-18_12-00</version>
     <conference><title>7th Leipzig Semantic Web Day</title>
         <acronym></acronym>
         <start>2019-05-22</start>
@@ -15,7 +15,7 @@
                 <date>2019-05-22T09:00:00Z</date>
                 <start>09:00</start>
                 <duration>00:10</duration>
-                <person>Dr. Sebastian Tramp, Andreas Heinecke</person>
+                <person>Andreas Heinecke, Dr. Sebastian Tramp</person>
                 <track>Vorträge</track>
                 <room>Vorträge</room>
                 <description><![CDATA[]]></description>
@@ -82,12 +82,12 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         
             
             <event id="997">
-                <title>Coffee Break</title>
+                <title>Kaffeepause</title>
                 <date>2019-05-22T11:00:00Z</date>
                 <start>11:00</start>
                 <duration>00:15</duration>
                 <person></person>
-                <track>Break</track>
+                <track>Pause</track>
                 <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#ersteKaffeePause</slug>
@@ -134,12 +134,12 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         
             
             <event id="998">
-                <title>Mittagspause</title>
+                <title>Lunch Break</title>
                 <date>2019-05-22T12:15:00Z</date>
                 <start>12:15</start>
                 <duration>01:15</duration>
                 <person></person>
-                <track>Break</track>
+                <track>Pause</track>
                 <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#MittagsPause</slug>
@@ -173,20 +173,33 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         
             
             <event id="999">
-                <title>Coffee Break and Postersession</title>
+                <title>Kaffeepause und Postersession</title>
                 <date>2019-05-22T15:30:00Z</date>
                 <start>15:30</start>
                 <duration>00:45</duration>
                 <person></person>
-                <track>Break</track>
+                <track>Pause</track>
                 <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#zweiteKaffeePause</slug>
             </event>
         
             
+            <event id="142">
+                <title>Linked data publication pipelines for agri-related use cases</title>
+                <date>2019-05-22T16:15:00Z</date>
+                <start>16:15</start>
+                <duration>00:20</duration>
+                <person>Raul Palma</person>
+                <track></track>
+                <room>Vorträge</room>
+                <description><![CDATA[]]></description>
+                <slug>https://lswt2019.aksw.org/#talkPalma</slug>
+            </event>
+        
+            
             <event id="1227">
-                <title>Poster Gewinner und Abschluss</title>
+                <title>Poster Winner and Closing</title>
                 <date>2019-05-22T17:30:00Z</date>
                 <start>17:30</start>
                 <duration>00:30</duration>
@@ -202,12 +215,12 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         <room name="Tutorials">
             
             <event id="997">
-                <title>Coffee Break</title>
+                <title>Kaffeepause</title>
                 <date>2019-05-22T11:00:00Z</date>
                 <start>11:00</start>
                 <duration>00:15</duration>
                 <person></person>
-                <track>Break</track>
+                <track>Pause</track>
                 <room>Tutorials</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#ersteKaffeePause</slug>
@@ -215,12 +228,12 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         
             
             <event id="998">
-                <title>Mittagspause</title>
+                <title>Lunch Break</title>
                 <date>2019-05-22T12:15:00Z</date>
                 <start>12:15</start>
                 <duration>01:15</duration>
                 <person></person>
-                <track>Break</track>
+                <track>Pause</track>
                 <room>Tutorials</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#MittagsPause</slug>
@@ -241,12 +254,12 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         
             
             <event id="999">
-                <title>Coffee Break and Postersession</title>
+                <title>Kaffeepause und Postersession</title>
                 <date>2019-05-22T15:30:00Z</date>
                 <start>15:30</start>
                 <duration>00:45</duration>
                 <person></person>
-                <track>Break</track>
+                <track>Pause</track>
                 <room>Tutorials</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#zweiteKaffeePause</slug>
@@ -254,7 +267,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         
             
             <event id="202">
-                <title>Using Jekyll RDF</title>
+                <title>Jekyll RDF Benutzung</title>
                 <date>2019-05-22T16:15:00Z</date>
                 <start>16:15</start>
                 <duration>00:45</duration>
@@ -265,11 +278,11 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
 <p><a href="https://jekyllrb.com/">Jekyll</a> ist ein Werkzeug zur simplen Erzeugung von statischen Webseiten oder Blogs. Durch eine große Auswahl an Plugins und Themes lassen sich auch sehr mächtige und vielseitige Webseiten erstellen. <a href="https://github.com/white-gecko/jekyll-rdf">Jekyll RDF</a> (<a href="https://rubygems.org/gems/jekyll-rdf">rubygem</a>) erweitert Jekyll um die Möglichkeit Seiten mit Daten aus einem RDF-Graphen anzureichern. Diese Möglichkeit reicht so weit, dass ganze Webseiten ihren vollständigen Inhalt aus einem RDF-Graphen erhalten. So ist Jekyll RDF ein einfaches Werkzeug, um RDF-Daten für Menschen lesbar im Web zu publizieren. (Jekyll steckt übrigens auch hinter GitHub-Pages und Ihr könnt Seiten die mit Jekyll erzeugt wurden auch auf GitHub-Pages veröffentlichen.)</p>
 <h4 id="was-lernt-ihr-im-tutorial">Was lernt Ihr im Tutorial</h4>
 <p>Im Tutorial lernt Ihr Jekyll mit seiner Template-Sprache kennen und wir erzeugen einfache Jekyll-Templates. Anschließend binden wir einen RDF-Graphen ein und erweitern die Jekyll-Templates um die RDF-spezifischen Filter. Nach dem Tutorial wisst ihr, wie man Jekyll bedient und einen RDF-Graphen anschaulich publizieren könnt.</p>
-<h4 id="voraussetzungenrequirements-1">Requirements</h4>
-<p>Please bring this to the tutorial:</p>
+<h4 id="voraussetzungenrequirements-1">Voraussetzungen</h4>
+<p>Bitte bringen Sie folgendes zum Tutorial mit:</p>
 <ul>
   <li>Laptop</li>
-  <li>ruby &gt;= 2.1 with bundler or docker</li>
+  <li>ruby &gt;= 2.1 mit bundler oder docker</li>
 </ul>
     ]]></description>
                 <slug>https://lswt2019.aksw.org/#jekyllrdf</slug>
@@ -319,16 +332,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <person></person>
                 <track>Social Event</track>
                 <room>Social Event</room>
-                <description><![CDATA[
-<p>Auch 2019 unterstützt die eccenca GmbH den Leipziger Semantic Web Tag und lädt die Teilnehmer gerne zum Social Event <strong>Semantic Beergarden</strong> ein!</p>
-
-<p>Genießen Sie interessante Gespräche am Abend bei einem Bier auf der Dachterrasse des wunderschönen INNSIDE Hotels. eccenca möchte zusammen mit Ihnen diesen großartigen Moment des Jahres erleben. Sie sind dann herzlich eingeladen.</p>
-
-
-<p>eccenca GmbH verknüpft und vernetzt Daten, um innovative, datengesteuert und agile Anwendungsfälle und Unternehmensnetzwerke zu ermöglichen. Dieses junge deutsche KMU bietet Technologien für Entwicklung, Vermarktung und Support von Software sowie den Betrieb von Anwendungssoftware als Dienstleistung für Dritte seit 2013.</p>
-
-<p>Finden Sie weitere Information von eccenca GmbH auf unser Webseite: <a href="https://www.eccenca.com/">www.eccenca.com</a></p>
-]]></description>
+                <description><![CDATA[We are happy to invite you to the social event “Semantic Beer Garden” in the INNSIDE Hotel on the roof terrace! ]]></description>
                 <slug>https://lswt2019.aksw.org/#beergarden</slug>
             </event>
         
