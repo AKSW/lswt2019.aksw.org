@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schedule>
-    <version>2019-04-18_16-05</version>
+    <version>2019-04-18_16-43</version>
     <conference><title>7th Leipzig Semantic Web Day</title>
         <acronym></acronym>
         <start>2019-05-22</start>
@@ -8,7 +8,7 @@
         <generator>Jekyll v3.6.3</generator>
     </conference>
     <day date="2019-05-22" start="2019-05-22" end="2019-05-22" index="1">
-        <room name="Main Track">
+        <room name="Vorträge">
             
             <event id="101">
                 <title>Welcome</title>
@@ -16,8 +16,8 @@
                 <start>09:00</start>
                 <duration>00:10</duration>
                 <person>Dr. Sebastian Tramp, Andreas Heinecke</person>
-                <track>Main Track</track>
-                <room>Main Track</room>
+                <track>Vorträge</track>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#begruessung</slug>
             </event>
@@ -30,7 +30,7 @@
                 <duration>00:30</duration>
                 <person>Prof. Dr. Andreas Both</person>
                 <track>Keynote</track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[Short CV:
 Prof. Dr. Andreas Both studierte Informatik an der Martin-Luther-Universität und promovierte ebendort im Forschungsfeld Software Engineering.
 In leitender Position war in verschiedenen Unternehmen in den Felder e-Commerce und Business Software tätig und verantwortete Technologie orientierte Innovationen in Eigenentwicklung, mit Partnern sowie in zahlreichen (internationalen) F&E-Projekten.
@@ -49,7 +49,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <duration>00:20</duration>
                 <person>Markus Freudenberg</person>
                 <track>Linked Data in Enterprise Use-Cases</track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkFreudenberg</slug>
             </event>
@@ -62,20 +62,20 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <duration>00:20</duration>
                 <person>Dr. Sebastian Tramp</person>
                 <track>Linked Data in Enterprise Use-Cases</track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkSeebi</slug>
             </event>
         
             
             <event id="997">
-                <title>Coffee Break</title>
+                <title>Kaffeepause</title>
                 <date>2019-05-22T11:00:00Z</date>
                 <start>11:00</start>
                 <duration>00:15</duration>
                 <person></person>
                 <track>Pause</track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#ersteKaffeePause</slug>
             </event>
@@ -88,7 +88,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <duration>00:20</duration>
                 <person>Prof. Dr. Sören Auer</person>
                 <track>Linking Research</track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkAuer</slug>
             </event>
@@ -101,7 +101,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <duration>00:20</duration>
                 <person>Prof. Dr. Birgitta König-Ries</person>
                 <track>Linking Research</track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkKoenigRies</slug>
             </event>
@@ -114,20 +114,20 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <duration>00:20</duration>
                 <person>Stefan Wolff</person>
                 <track>Linking Research</track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkWolff</slug>
             </event>
         
             
             <event id="998">
-                <title>Lunch Break</title>
+                <title>Mittagspause</title>
                 <date>2019-05-22T12:15:00Z</date>
                 <start>12:15</start>
                 <duration>01:15</duration>
                 <person></person>
                 <track>Pause</track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#MittagsPause</slug>
             </event>
@@ -140,7 +140,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <duration>00:30</duration>
                 <person>Prof. Dr. Jens Lehmann</person>
                 <track>Keynote</track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[…]]></description>
                 <slug>https://lswt2019.aksw.org/#keynoteLehmann</slug>
             </event>
@@ -153,7 +153,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <duration>00:20</duration>
                 <person>Dr.-Ing. Sebastian Hellmann</person>
                 <track>Data Networks</track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkHellmann</slug>
             </event>
@@ -166,20 +166,20 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <duration>00:20</duration>
                 <person>Natanael Arndt</person>
                 <track>Data Networks</track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkArndt</slug>
             </event>
         
             
             <event id="999">
-                <title>Coffee Break and Postersession</title>
+                <title>Kaffeepause und Postersession</title>
                 <date>2019-05-22T15:30:00Z</date>
                 <start>15:30</start>
                 <duration>00:45</duration>
                 <person></person>
                 <track>Pause</track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#zweiteKaffeePause</slug>
             </event>
@@ -192,7 +192,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <duration>00:20</duration>
                 <person>Raul Palma</person>
                 <track></track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkPalma</slug>
             </event>
@@ -202,23 +202,36 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <title>Das QROWD-Projekt: Because Big Data Integration is Humanly Possible</title>
                 <date>2019-05-22T16:35:00Z</date>
                 <start>16:35</start>
-                <duration>00:20</duration>
+                <duration>00:25</duration>
                 <person>Simon Bin, Patrick Westphal</person>
                 <track></track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkQrowd</slug>
             </event>
         
             
+            <event id="144">
+                <title>Semantic Web in the Digital Humanities</title>
+                <date>2019-05-22T17:00:00Z</date>
+                <start>17:00</start>
+                <duration>00:20</duration>
+                <person>Prof. Dr. Thomas Riechert</person>
+                <track></track>
+                <room>Vorträge</room>
+                <description><![CDATA[]]></description>
+                <slug>https://lswt2019.aksw.org/#talkRiechert</slug>
+            </event>
+        
+            
             <event id="1227">
-                <title>Poster Gewinner und Abschluss</title>
+                <title>Poster Winner and Closing</title>
                 <date>2019-05-22T17:30:00Z</date>
                 <start>17:30</start>
                 <duration>00:30</duration>
                 <person></person>
-                <track>Main Track</track>
-                <room>Main Track</room>
+                <track>Vorträge</track>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#closing</slug>
             </event>
@@ -228,7 +241,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         <room name="Tutorials">
             
             <event id="997">
-                <title>Coffee Break</title>
+                <title>Kaffeepause</title>
                 <date>2019-05-22T11:00:00Z</date>
                 <start>11:00</start>
                 <duration>00:15</duration>
@@ -241,7 +254,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         
             
             <event id="998">
-                <title>Lunch Break</title>
+                <title>Mittagspause</title>
                 <date>2019-05-22T12:15:00Z</date>
                 <start>12:15</start>
                 <duration>01:15</duration>
@@ -267,7 +280,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         
             
             <event id="999">
-                <title>Coffee Break and Postersession</title>
+                <title>Kaffeepause und Postersession</title>
                 <date>2019-05-22T15:30:00Z</date>
                 <start>15:30</start>
                 <duration>00:45</duration>
@@ -280,7 +293,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         
             
             <event id="202">
-                <title>Using Jekyll RDF</title>
+                <title>Jekyll RDF Benutzung</title>
                 <date>2019-05-22T16:15:00Z</date>
                 <start>16:15</start>
                 <duration>00:45</duration>
@@ -291,11 +304,11 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
 <p><a href="https://jekyllrb.com/">Jekyll</a> ist ein Werkzeug zur simplen Erzeugung von statischen Webseiten oder Blogs. Durch eine große Auswahl an Plugins und Themes lassen sich auch sehr mächtige und vielseitige Webseiten erstellen. <a href="https://github.com/white-gecko/jekyll-rdf">Jekyll RDF</a> (<a href="https://rubygems.org/gems/jekyll-rdf">rubygem</a>) erweitert Jekyll um die Möglichkeit Seiten mit Daten aus einem RDF-Graphen anzureichern. Diese Möglichkeit reicht so weit, dass ganze Webseiten ihren vollständigen Inhalt aus einem RDF-Graphen erhalten. So ist Jekyll RDF ein einfaches Werkzeug, um RDF-Daten für Menschen lesbar im Web zu publizieren. (Jekyll steckt übrigens auch hinter GitHub-Pages und Ihr könnt Seiten die mit Jekyll erzeugt wurden auch auf GitHub-Pages veröffentlichen.)</p>
 <h4 id="was-lernt-ihr-im-tutorial">Was lernt Ihr im Tutorial</h4>
 <p>Im Tutorial lernt Ihr Jekyll mit seiner Template-Sprache kennen und wir erzeugen einfache Jekyll-Templates. Anschließend binden wir einen RDF-Graphen ein und erweitern die Jekyll-Templates um die RDF-spezifischen Filter. Nach dem Tutorial wisst ihr, wie man Jekyll bedient und einen RDF-Graphen anschaulich publizieren könnt.</p>
-<h4 id="voraussetzungenrequirements-1">Requirements</h4>
-<p>Please bring this to the tutorial:</p>
+<h4 id="voraussetzungenrequirements-1">Voraussetzungen</h4>
+<p>Bitte bringen Sie folgendes zum Tutorial mit:</p>
 <ul>
   <li>Laptop</li>
-  <li>ruby &gt;= 2.1 with bundler or docker</li>
+  <li>ruby &gt;= 2.1 mit bundler oder docker</li>
 </ul>
     ]]></description>
                 <slug>https://lswt2019.aksw.org/#jekyllrdf</slug>
@@ -346,7 +359,16 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <person></person>
                 <track>Social Event</track>
                 <room>Social Event</room>
-                <description><![CDATA[We are happy to invite you to the social event “Semantic Beer Garden” in the INNSIDE Hotel on the roof terrace! ]]></description>
+                <description><![CDATA[
+<p>Auch 2019 unterstützt die eccenca GmbH den Leipziger Semantic Web Tag und lädt die Teilnehmer gerne zum Social Event <strong>Semantic Beergarden</strong> ein!</p>
+
+<p>Genießen Sie interessante Gespräche am Abend bei einem Bier auf der Dachterrasse des wunderschönen INNSIDE Hotels. eccenca möchte zusammen mit Ihnen diesen großartigen Moment des Jahres erleben. Sie sind dann herzlich eingeladen.</p>
+
+
+<p>eccenca GmbH verknüpft und vernetzt Daten, um innovative, datengesteuert und agile Anwendungsfälle und Unternehmensnetzwerke zu ermöglichen. Dieses junge deutsche KMU bietet Technologien für Entwicklung, Vermarktung und Support von Software sowie den Betrieb von Anwendungssoftware als Dienstleistung für Dritte seit 2013.</p>
+
+<p>Finden Sie weitere Information von eccenca GmbH auf unser Webseite: <a href="https://www.eccenca.com/">www.eccenca.com</a></p>
+]]></description>
                 <slug>https://lswt2019.aksw.org/#beergarden</slug>
             </event>
         
