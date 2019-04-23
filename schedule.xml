@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schedule>
-    <version>2019-04-18_16-51</version>
+    <version>2019-04-23_15-22</version>
     <conference><title>7th Leipzig Semantic Web Day</title>
         <acronym></acronym>
         <start>2019-05-22</start>
@@ -11,11 +11,11 @@
         <room name="Main Track">
             
             <event id="101">
-                <title>Welcome</title>
+                <title>Begrüßung</title>
                 <date>2019-05-22T09:00:00Z</date>
                 <start>09:00</start>
                 <duration>00:10</duration>
-                <person>Andreas Heinecke, Dr. Sebastian Tramp</person>
+                <person>Dr. Sebastian Tramp, Andreas Heinecke</person>
                 <track>Main Track</track>
                 <room>Main Track</room>
                 <description><![CDATA[]]></description>
@@ -55,16 +55,29 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
             </event>
         
             
-            <event id="112">
-                <title>Das LIMBO Projekt: Linked Data Enterprise Use-Cases unter Verwendung der Daten des Bundes</title>
+            <event id="113">
+                <title>Das LIMBO Projekt - Linked Data Enterprise Use-Cases unter Verwendung der Daten des Bundes</title>
                 <date>2019-05-22T10:00:00Z</date>
                 <start>10:00</start>
                 <duration>00:20</duration>
-                <person>Dr. Sebastian Tramp</person>
+                <person>Dr. Michael Martin, Magnus Knuth</person>
                 <track>Linked Data in Enterprise Use-Cases</track>
                 <room>Main Track</room>
                 <description><![CDATA[]]></description>
-                <slug>https://lswt2019.aksw.org/#talkSeebi</slug>
+                <slug>https://lswt2019.aksw.org/#talkLIMBO</slug>
+            </event>
+        
+            
+            <event id="113">
+                <title>Das LIMBO Projekt - Linked Data Enterprise Use-Cases unter Verwendung der Daten des Bundes</title>
+                <date>2019-05-22T10:00:00Z</date>
+                <start>10:00</start>
+                <duration>00:20</duration>
+                <person>Dr. Michael Martin, Magnus Knuth</person>
+                <track>Linked Data in Enterprise Use-Cases</track>
+                <room>Main Track</room>
+                <description><![CDATA[]]></description>
+                <slug>https://lswt2019.aksw.org/#talkLIMBO</slug>
             </event>
         
             
@@ -203,7 +216,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <date>2019-05-22T16:35:00Z</date>
                 <start>16:35</start>
                 <duration>00:25</duration>
-                <person>Simon Bin, Patrick Westphal</person>
+                <person>Patrick Westphal, Simon Bin</person>
                 <track></track>
                 <room>Main Track</room>
                 <description><![CDATA[]]></description>
@@ -293,7 +306,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         
             
             <event id="202">
-                <title>Using Jekyll RDF</title>
+                <title>Jekyll RDF Benutzung</title>
                 <date>2019-05-22T16:15:00Z</date>
                 <start>16:15</start>
                 <duration>00:45</duration>
@@ -358,16 +371,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <person></person>
                 <track>Social Event</track>
                 <room>Social Event</room>
-                <description><![CDATA[
-<p>Auch 2019 unterstützt die eccenca GmbH den Leipziger Semantic Web Tag und lädt die Teilnehmer gerne zum Social Event <strong>Semantic Beergarden</strong> ein!</p>
-
-<p>Genießen Sie interessante Gespräche am Abend bei einem Bier auf der Dachterrasse des wunderschönen INNSIDE Hotels. eccenca möchte zusammen mit Ihnen diesen großartigen Moment des Jahres erleben. Sie sind dann herzlich eingeladen.</p>
-
-
-<p>eccenca GmbH verknüpft und vernetzt Daten, um innovative, datengesteuert und agile Anwendungsfälle und Unternehmensnetzwerke zu ermöglichen. Dieses junge deutsche KMU bietet Technologien für Entwicklung, Vermarktung und Support von Software sowie den Betrieb von Anwendungssoftware als Dienstleistung für Dritte seit 2013.</p>
-
-<p>Finden Sie weitere Information von eccenca GmbH auf unser Webseite: <a href="https://www.eccenca.com/">www.eccenca.com</a></p>
-]]></description>
+                <description><![CDATA[We are happy to invite you to the social event “Semantic Beer Garden” in the INNSIDE Hotel on the roof terrace! ]]></description>
                 <slug>https://lswt2019.aksw.org/#beergarden</slug>
             </event>
         
