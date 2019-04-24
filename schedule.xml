@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schedule>
-    <version>2019-04-23_15-31</version>
-    <conference><title>7. Leipziger Semantic Web Tag</title>
+    <version>2019-04-24_15-49</version>
+    <conference><title>7th Leipzig Semantic Web Day</title>
         <acronym></acronym>
         <start>2019-05-22</start>
         <end>2019-05-22</end>
@@ -82,12 +82,12 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         
             
             <event id="997">
-                <title>Kaffeepause</title>
-                <date>2019-05-22T11:00:00Z</date>
-                <start>11:00</start>
-                <duration>00:15</duration>
+                <title>Coffee Break</title>
+                <date>2019-05-22T10:40:00Z</date>
+                <start>10:40</start>
+                <duration>00:20</duration>
                 <person></person>
-                <track>Pause</track>
+                <track>Break</track>
                 <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#ersteKaffeePause</slug>
@@ -96,8 +96,8 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
             
             <event id="121">
                 <title>Knowledge Graphs for Scholarly Communication</title>
-                <date>2019-05-22T11:15:00Z</date>
-                <start>11:15</start>
+                <date>2019-05-22T11:00:00Z</date>
+                <start>11:00</start>
                 <duration>00:20</duration>
                 <person>Prof. Dr. Sören Auer</person>
                 <track>Linking Research</track>
@@ -109,8 +109,8 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
             
             <event id="122">
                 <title>BEXIS2</title>
-                <date>2019-05-22T11:35:00Z</date>
-                <start>11:35</start>
+                <date>2019-05-22T11:20:00Z</date>
+                <start>11:20</start>
                 <duration>00:20</duration>
                 <person>Prof. Dr. Birgitta König-Ries</person>
                 <track>Linking Research</track>
@@ -121,9 +121,9 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         
             
             <event id="123">
-                <title>Forschungskompass: Transparenz für interdisziplinäre Forschungsnetzwerke</title>
-                <date>2019-05-22T11:55:00Z</date>
-                <start>11:55</start>
+                <title>Forschungskompass - Transparenz für interdisziplinäre Forschungsnetzwerke</title>
+                <date>2019-05-22T11:40:00Z</date>
+                <start>11:40</start>
                 <duration>00:20</duration>
                 <person>Stefan Wolff</person>
                 <track>Linking Research</track>
@@ -133,13 +133,26 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
             </event>
         
             
+            <event id="124">
+                <title>SNIK - Semantisches Netz des Informationsmanagements im Krankenhaus</title>
+                <date>2019-05-22T12:00:00Z</date>
+                <start>12:00</start>
+                <duration>00:20</duration>
+                <person>Konrad Höffner</person>
+                <track>Linking Research</track>
+                <room>Vorträge</room>
+                <description><![CDATA[]]></description>
+                <slug>https://lswt2019.aksw.org/#talkSNIK</slug>
+            </event>
+        
+            
             <event id="998">
-                <title>Mittagspause</title>
-                <date>2019-05-22T12:15:00Z</date>
-                <start>12:15</start>
-                <duration>01:15</duration>
+                <title>Lunch Break</title>
+                <date>2019-05-22T12:20:00Z</date>
+                <start>12:20</start>
+                <duration>01:10</duration>
                 <person></person>
-                <track>Pause</track>
+                <track>Break</track>
                 <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#MittagsPause</slug>
@@ -173,7 +186,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         
             
             <event id="132">
-                <title>PlatonaM: Plattform-Ökosystem for innovative maintenance management through predictive maintenance</title>
+                <title>PlatonaM - Plattform-Ökosystem for innovative maintenance management through predictive maintenance</title>
                 <date>2019-05-22T14:20:00Z</date>
                 <start>14:20</start>
                 <duration>00:20</duration>
@@ -191,7 +204,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <start>15:30</start>
                 <duration>00:45</duration>
                 <person></person>
-                <track>Pause</track>
+                <track>Break</track>
                 <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#zweiteKaffeePause</slug>
@@ -212,11 +225,11 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         
             
             <event id="143">
-                <title>Das QROWD-Projekt: Because Big Data Integration is Humanly Possible</title>
+                <title>Das QROWD-Projekt - Because Big Data Integration is Humanly Possible</title>
                 <date>2019-05-22T16:35:00Z</date>
                 <start>16:35</start>
                 <duration>00:25</duration>
-                <person>Patrick Westphal, Simon Bin</person>
+                <person>Simon Bin, Patrick Westphal</person>
                 <track></track>
                 <room>Vorträge</room>
                 <description><![CDATA[]]></description>
@@ -238,7 +251,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         
             
             <event id="1227">
-                <title>Poster Gewinner und Abschluss</title>
+                <title>Poster Winner and Closing</title>
                 <date>2019-05-22T17:30:00Z</date>
                 <start>17:30</start>
                 <duration>00:30</duration>
@@ -254,12 +267,12 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         <room name="Tutorials">
             
             <event id="997">
-                <title>Kaffeepause</title>
-                <date>2019-05-22T11:00:00Z</date>
-                <start>11:00</start>
-                <duration>00:15</duration>
+                <title>Coffee Break</title>
+                <date>2019-05-22T10:40:00Z</date>
+                <start>10:40</start>
+                <duration>00:20</duration>
                 <person></person>
-                <track>Pause</track>
+                <track>Break</track>
                 <room>Tutorials</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#ersteKaffeePause</slug>
@@ -267,12 +280,12 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         
             
             <event id="998">
-                <title>Mittagspause</title>
-                <date>2019-05-22T12:15:00Z</date>
-                <start>12:15</start>
-                <duration>01:15</duration>
+                <title>Lunch Break</title>
+                <date>2019-05-22T12:20:00Z</date>
+                <start>12:20</start>
+                <duration>01:10</duration>
                 <person></person>
-                <track>Pause</track>
+                <track>Break</track>
                 <room>Tutorials</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#MittagsPause</slug>
@@ -298,7 +311,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <start>15:30</start>
                 <duration>00:45</duration>
                 <person></person>
-                <track>Pause</track>
+                <track>Break</track>
                 <room>Tutorials</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#zweiteKaffeePause</slug>
@@ -306,7 +319,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         
             
             <event id="202">
-                <title>Jekyll RDF Benutzung</title>
+                <title>Using Jekyll RDF</title>
                 <date>2019-05-22T16:15:00Z</date>
                 <start>16:15</start>
                 <duration>00:45</duration>
@@ -372,16 +385,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <person></person>
                 <track>Social Event</track>
                 <room>Social Event</room>
-                <description><![CDATA[
-<p>Auch 2019 unterstützt die eccenca GmbH den Leipziger Semantic Web Tag und lädt die Teilnehmer gerne zum Social Event <strong>Semantic Beergarden</strong> ein!</p>
-
-<p>Genießen Sie interessante Gespräche am Abend bei einem Bier auf der Dachterrasse des wunderschönen INNSIDE Hotels. eccenca möchte zusammen mit Ihnen diesen großartigen Moment des Jahres erleben. Sie sind dann herzlich eingeladen.</p>
-
-
-<p>eccenca GmbH verknüpft und vernetzt Daten, um innovative, datengesteuert und agile Anwendungsfälle und Unternehmensnetzwerke zu ermöglichen. Dieses junge deutsche KMU bietet Technologien für Entwicklung, Vermarktung und Support von Software sowie den Betrieb von Anwendungssoftware als Dienstleistung für Dritte seit 2013.</p>
-
-<p>Finden Sie weitere Information von eccenca GmbH auf unser Webseite: <a href="https://www.eccenca.com/">www.eccenca.com</a></p>
-]]></description>
+                <description><![CDATA[We are happy to invite you to the social event “Semantic Beer Garden” in the INNSIDE Hotel on the roof terrace! ]]></description>
                 <slug>https://lswt2019.aksw.org/#beergarden</slug>
             </event>
         
