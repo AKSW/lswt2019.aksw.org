@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schedule>
-    <version>2019-04-18_17-26</version>
+    <version>2019-04-24_17-20</version>
     <conference><title>7th Leipzig Semantic Web Day</title>
         <acronym></acronym>
         <start>2019-05-22</start>
@@ -51,28 +51,41 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <track>Linked Data in Enterprise Use-Cases</track>
                 <room>Vorträge</room>
                 <description><![CDATA[]]></description>
-                <slug>https://lswt2019.aksw.org/#talkFreudenberg</slug>
+                <slug>https://lswt2019.aksw.org/#talkXCOR</slug>
             </event>
         
             
             <event id="112">
-                <title>Das LIMBO Projekt: Linked Data Enterprise Use-Cases unter Verwendung der Daten des Bundes</title>
+                <title>Das LIMBO Projekt - Linked Data Enterprise Use-Cases unter Verwendung der Daten des Bundes</title>
                 <date>2019-05-22T10:00:00Z</date>
                 <start>10:00</start>
                 <duration>00:20</duration>
-                <person>Dr. Sebastian Tramp</person>
+                <person>Dr. Michael Martin</person>
                 <track>Linked Data in Enterprise Use-Cases</track>
                 <room>Vorträge</room>
                 <description><![CDATA[]]></description>
-                <slug>https://lswt2019.aksw.org/#talkSeebi</slug>
+                <slug>https://lswt2019.aksw.org/#talkLIMBO</slug>
+            </event>
+        
+            
+            <event id="113">
+                <title>GeniusTex - a Smart Textiles innovation platform with semantic technologies inside</title>
+                <date>2019-05-22T10:20:00Z</date>
+                <start>10:20</start>
+                <duration>00:20</duration>
+                <person>Magnus Knuth</person>
+                <track>Linked Data in Enterprise Use-Cases</track>
+                <room>Vorträge</room>
+                <description><![CDATA[]]></description>
+                <slug>https://lswt2019.aksw.org/#talkGeniusTex</slug>
             </event>
         
             
             <event id="997">
-                <title>Kaffeepause</title>
-                <date>2019-05-22T11:00:00Z</date>
-                <start>11:00</start>
-                <duration>00:15</duration>
+                <title>Coffee Break</title>
+                <date>2019-05-22T10:40:00Z</date>
+                <start>10:40</start>
+                <duration>00:20</duration>
                 <person></person>
                 <track>Pause</track>
                 <room>Vorträge</room>
@@ -83,8 +96,8 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
             
             <event id="121">
                 <title>Knowledge Graphs for Scholarly Communication</title>
-                <date>2019-05-22T11:15:00Z</date>
-                <start>11:15</start>
+                <date>2019-05-22T11:00:00Z</date>
+                <start>11:00</start>
                 <duration>00:20</duration>
                 <person>Prof. Dr. Sören Auer</person>
                 <track>Linking Research</track>
@@ -96,8 +109,8 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
             
             <event id="122">
                 <title>BEXIS2</title>
-                <date>2019-05-22T11:35:00Z</date>
-                <start>11:35</start>
+                <date>2019-05-22T11:20:00Z</date>
+                <start>11:20</start>
                 <duration>00:20</duration>
                 <person>Prof. Dr. Birgitta König-Ries</person>
                 <track>Linking Research</track>
@@ -108,9 +121,9 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         
             
             <event id="123">
-                <title>Forschungskompass: Transparenz für interdisziplinäre Forschungsnetzwerke</title>
-                <date>2019-05-22T11:55:00Z</date>
-                <start>11:55</start>
+                <title>Forschungskompass - Transparenz für interdisziplinäre Forschungsnetzwerke</title>
+                <date>2019-05-22T11:40:00Z</date>
+                <start>11:40</start>
                 <duration>00:20</duration>
                 <person>Stefan Wolff</person>
                 <track>Linking Research</track>
@@ -120,11 +133,24 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
             </event>
         
             
+            <event id="124">
+                <title>SNIK - Semantisches Netz des Informationsmanagements im Krankenhaus</title>
+                <date>2019-05-22T12:00:00Z</date>
+                <start>12:00</start>
+                <duration>00:20</duration>
+                <person>Konrad Höffner</person>
+                <track>Linking Research</track>
+                <room>Vorträge</room>
+                <description><![CDATA[]]></description>
+                <slug>https://lswt2019.aksw.org/#talkSNIK</slug>
+            </event>
+        
+            
             <event id="998">
                 <title>Lunch Break</title>
-                <date>2019-05-22T12:15:00Z</date>
-                <start>12:15</start>
-                <duration>01:15</duration>
+                <date>2019-05-22T12:20:00Z</date>
+                <start>12:20</start>
+                <duration>01:10</duration>
                 <person></person>
                 <track>Pause</track>
                 <room>Vorträge</room>
@@ -160,7 +186,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         
             
             <event id="132">
-                <title>PlatonaM: Plattform-Ökosystem for innovative maintenance management through predictive maintenance</title>
+                <title>PlatonaM - Plattform-Ökosystem for innovative maintenance management through predictive maintenance</title>
                 <date>2019-05-22T14:20:00Z</date>
                 <start>14:20</start>
                 <duration>00:20</duration>
@@ -173,7 +199,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         
             
             <event id="999">
-                <title>Coffee Break and Postersession</title>
+                <title>Kaffeepause und Postersession</title>
                 <date>2019-05-22T15:30:00Z</date>
                 <start>15:30</start>
                 <duration>00:45</duration>
@@ -199,11 +225,11 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         
             
             <event id="143">
-                <title>Das QROWD-Projekt: Because Big Data Integration is Humanly Possible</title>
+                <title>Das QROWD-Projekt - Because Big Data Integration is Humanly Possible</title>
                 <date>2019-05-22T16:35:00Z</date>
                 <start>16:35</start>
                 <duration>00:25</duration>
-                <person>Patrick Westphal, Simon Bin</person>
+                <person>Simon Bin, Patrick Westphal</person>
                 <track></track>
                 <room>Vorträge</room>
                 <description><![CDATA[]]></description>
@@ -241,10 +267,10 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         <room name="Tutorials">
             
             <event id="997">
-                <title>Kaffeepause</title>
-                <date>2019-05-22T11:00:00Z</date>
-                <start>11:00</start>
-                <duration>00:15</duration>
+                <title>Coffee Break</title>
+                <date>2019-05-22T10:40:00Z</date>
+                <start>10:40</start>
+                <duration>00:20</duration>
                 <person></person>
                 <track>Pause</track>
                 <room>Tutorials</room>
@@ -255,9 +281,9 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
             
             <event id="998">
                 <title>Lunch Break</title>
-                <date>2019-05-22T12:15:00Z</date>
-                <start>12:15</start>
-                <duration>01:15</duration>
+                <date>2019-05-22T12:20:00Z</date>
+                <start>12:20</start>
+                <duration>01:10</duration>
                 <person></person>
                 <track>Pause</track>
                 <room>Tutorials</room>
@@ -280,7 +306,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         
             
             <event id="999">
-                <title>Coffee Break and Postersession</title>
+                <title>Kaffeepause und Postersession</title>
                 <date>2019-05-22T15:30:00Z</date>
                 <start>15:30</start>
                 <duration>00:45</duration>
@@ -327,19 +353,18 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <track>Hackathon</track>
                 <room>Hackathon</room>
                 <description><![CDATA[
-    <p>Der Thinktank und Hackathon <em>“Artificial Intelligence for Smart Agriculture”</em> ist Teil vom Leipziger Semantic Web Tag (LSWT) am 22. Mai 2019. Die Veranstaltung wird durch die Projekte <a href="https://infai.org/databio/">DataBio</a>, Bridge2Era sowie <a href="https://www.pnoconsultants.com/it/">CIAOTECH/PNO</a> unterstützt. Ziel des Thinktank &amp; Hackathon ist es, neue Ideen und Werkzeuge zu entwickeln, die den Einsatz von Künstlicher Intelligenz (KI) im landwirtschaftlichen Bereich und für eine nachhaltige Bioökonomie demonstrieren können. Einen besonderen Stellenwert wird das Thema “Verwendung und Auswirkung von verknüpften Daten für KI-Komponenten” im Programm einnehmen. Hacks werden vorrangig in Teams organisiert. Diese Teams werden gebildet, indem die Hauptideen zuerst von den "Ideengebern" vorgestellt werden, danach können sich die TeilnehmerInnen den verschiedenen Teams anschließen. Weiterhin werden kleinere Workshops die Vernetzung und teamübergreifende Zusammenarbeit unterstützen. Weiterhin werden Diskussionen über zukünftige Kooperationen und Ideen für die Zukunft der KI-basierten Smart Agriculture stattfinden. Der zweite Teil des Hackathons wird dann am 23. Mai 2019 am <a href=”https://www.mediencampus-villa-ida.de/de/campus/>Mediencampus Villa Ida</a>.stattfinden.</p>
-
-    <p><em>Kurz zusammengefasst</em>: Die Veranstaltung umfasst Hacking vor Ort, Workshops sowie die Präsentation der Ergebnisse. Alle Interessierten sind herzlich eingeladen am 22. Mai 2019 am Hackathon in Leipzig teilzunehmen und ihre Projekte zu präsentieren. <strong>Ideen für den Thinktank und Hackathon können <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXD4_shiDkiHrMSwtEbEzl746oAd-GAAmDiZex_2AUTiyDnw/viewform?usp=sf_link">hier</a></strong> eingereicht werden.</p>
-    <p>Diese Ideen wurden bereits eingereicht: </p>
+    <p>The Thinktank and Hackathon <em>“Artificial Intelligence for Smart Agriculture”</em> is part of the Leipzig Semantic Web Day (LSWT) on 22nd May 2019. The activity is supported by the projects <a href="https://infai.org/databio/">DataBio</a>, Bridge2Era as well as <a href="https://www.pnoconsultants.com/it/">CIAOTECH/PNO</a>. The goal of the thinktank &amp; hackathon is to build new ideas and small tools, which are able to demonstrate the use of AI within the agricultural domain and a sustainable bioeconomy. Especially, the use and impact of linked data for AI components will be one part of the event. Hacks will be organized in teams. Team building will be encouraged by pitching the main ideas by “idea-bringers” and find participants for the team. Small workshops and hand-offs will support networking and cross-team collaboration. Further discussions about future collaborations and ideas of the future of AI-based Smart Agriculture will be held. The second part of the hackathon will take place on 23 May 2019 at <a href=”https://www.mediencampus-villa-ida.de/de/campus/>Mediencampus Villa Ida</a>.</p>
+    <p>In a nutshell: The event includes on-site hacking, workshops as well as presentation of results. All participating teams are invited to join and present their projects. <strong>Please submit your ideas and projects <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXD4_shiDkiHrMSwtEbEzl746oAd-GAAmDiZex_2AUTiyDnw/viewform?usp=sf_link">here</a>.</strong></p>
+    <p>First registrations and ideas from:</p>
     <ul>
     <li><a href=https://www.spacelabel.be/">Spacelabel</a> [Belgien]</li>
     <ul>
     <li>Linking Information between EO (satellite) metadata (e.g. GeoDCAP-AP) and other Linked Data sources (FOODIE, DBpedia, Thesauri)</li>
     </ul>
-    <li><a href="http://www.lesprojekt.cz/en">Lesprojekt</a> [Tschechische Republik]</li>
-    <li><a href= “http://www.man.poznan.pl/online/en/”>PSNC</a> [Polen]</li>
+    <li><a href="http://www.lesprojekt.cz/en">Lesprojekt</a>[Czech Republic]</li>
+    <li><a href= “http://www.man.poznan.pl/online/en/”>PSNC</a> [Poland]</li>
     <li>AI for FOODIE Cloud?</li>
-    <li><a href= ”http://infai.org”>InfAI e.V.</a> [Deutschland]</li>
+    <li><a href= ”http://infai.org”>InfAI e.V.</a> [Germany]</li>
     <ul>
     <li>Expanding Albatross – AI for Agriculture? Scenarios and Future Work</li>
     </ul>
@@ -359,7 +384,16 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <person></person>
                 <track>Social Event</track>
                 <room>Social Event</room>
-                <description><![CDATA[We are happy to invite you to the social event “Semantic Beer Garden” in the INNSIDE Hotel on the roof terrace! ]]></description>
+                <description><![CDATA[
+<p>Auch 2019 unterstützt die eccenca GmbH den Leipziger Semantic Web Tag und lädt die Teilnehmer gerne zum Social Event <strong>Semantic Beergarden</strong> ein!</p>
+
+<p>Genießen Sie interessante Gespräche am Abend bei einem Bier auf der Dachterrasse des wunderschönen INNSIDE Hotels. eccenca möchte zusammen mit Ihnen diesen großartigen Moment des Jahres erleben. Sie sind dann herzlich eingeladen.</p>
+
+
+<p>eccenca GmbH verknüpft und vernetzt Daten, um innovative, datengesteuert und agile Anwendungsfälle und Unternehmensnetzwerke zu ermöglichen. Dieses junge deutsche KMU bietet Technologien für Entwicklung, Vermarktung und Support von Software sowie den Betrieb von Anwendungssoftware als Dienstleistung für Dritte seit 2013.</p>
+
+<p>Finden Sie weitere Information von eccenca GmbH auf unser Webseite: <a href="https://www.eccenca.com/">www.eccenca.com</a></p>
+]]></description>
                 <slug>https://lswt2019.aksw.org/#beergarden</slug>
             </event>
         
