@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schedule>
-    <version>2019-04-24_15-49</version>
+    <version>2019-04-24_15-58</version>
     <conference><title>7th Leipzig Semantic Web Day</title>
         <acronym></acronym>
         <start>2019-05-22</start>
@@ -8,16 +8,16 @@
         <generator>Jekyll v3.6.3</generator>
     </conference>
     <day date="2019-05-22" start="2019-05-22" end="2019-05-22" index="1">
-        <room name="Vorträge">
+        <room name="Main Track">
             
             <event id="101">
-                <title>Begrüßung</title>
+                <title>Welcome</title>
                 <date>2019-05-22T09:00:00Z</date>
                 <start>09:00</start>
                 <duration>00:10</duration>
-                <person>Andreas Heinecke, Dr. Sebastian Tramp</person>
-                <track>Vorträge</track>
-                <room>Vorträge</room>
+                <person>Dr. Sebastian Tramp, Andreas Heinecke</person>
+                <track>Main Track</track>
+                <room>Main Track</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#begruessung</slug>
             </event>
@@ -30,7 +30,7 @@
                 <duration>00:30</duration>
                 <person>Prof. Dr. Andreas Both</person>
                 <track>Keynote</track>
-                <room>Vorträge</room>
+                <room>Main Track</room>
                 <description><![CDATA[Short CV:
 Prof. Dr. Andreas Both studierte Informatik an der Martin-Luther-Universität und promovierte ebendort im Forschungsfeld Software Engineering.
 In leitender Position war in verschiedenen Unternehmen in den Felder e-Commerce und Business Software tätig und verantwortete Technologie orientierte Innovationen in Eigenentwicklung, mit Partnern sowie in zahlreichen (internationalen) F&E-Projekten.
@@ -49,7 +49,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <duration>00:20</duration>
                 <person>Markus Freudenberg</person>
                 <track>Linked Data in Enterprise Use-Cases</track>
-                <room>Vorträge</room>
+                <room>Main Track</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkXCOR</slug>
             </event>
@@ -62,7 +62,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <duration>00:20</duration>
                 <person>Dr. Michael Martin</person>
                 <track>Linked Data in Enterprise Use-Cases</track>
-                <room>Vorträge</room>
+                <room>Main Track</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkLIMBO</slug>
             </event>
@@ -75,7 +75,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <duration>00:20</duration>
                 <person>Magnus Knuth</person>
                 <track>Linked Data in Enterprise Use-Cases</track>
-                <room>Vorträge</room>
+                <room>Main Track</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkGeniusTex</slug>
             </event>
@@ -88,7 +88,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <duration>00:20</duration>
                 <person></person>
                 <track>Break</track>
-                <room>Vorträge</room>
+                <room>Main Track</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#ersteKaffeePause</slug>
             </event>
@@ -101,7 +101,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <duration>00:20</duration>
                 <person>Prof. Dr. Sören Auer</person>
                 <track>Linking Research</track>
-                <room>Vorträge</room>
+                <room>Main Track</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkAuer</slug>
             </event>
@@ -114,7 +114,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <duration>00:20</duration>
                 <person>Prof. Dr. Birgitta König-Ries</person>
                 <track>Linking Research</track>
-                <room>Vorträge</room>
+                <room>Main Track</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkKoenigRies</slug>
             </event>
@@ -127,7 +127,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <duration>00:20</duration>
                 <person>Stefan Wolff</person>
                 <track>Linking Research</track>
-                <room>Vorträge</room>
+                <room>Main Track</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkWolff</slug>
             </event>
@@ -140,20 +140,20 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <duration>00:20</duration>
                 <person>Konrad Höffner</person>
                 <track>Linking Research</track>
-                <room>Vorträge</room>
+                <room>Main Track</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkSNIK</slug>
             </event>
         
             
             <event id="998">
-                <title>Lunch Break</title>
+                <title>Mittagspause</title>
                 <date>2019-05-22T12:20:00Z</date>
                 <start>12:20</start>
                 <duration>01:10</duration>
                 <person></person>
                 <track>Break</track>
-                <room>Vorträge</room>
+                <room>Main Track</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#MittagsPause</slug>
             </event>
@@ -166,7 +166,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <duration>00:30</duration>
                 <person>Prof. Dr. Jens Lehmann</person>
                 <track>Keynote</track>
-                <room>Vorträge</room>
+                <room>Main Track</room>
                 <description><![CDATA[…]]></description>
                 <slug>https://lswt2019.aksw.org/#keynoteLehmann</slug>
             </event>
@@ -179,7 +179,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <duration>00:20</duration>
                 <person>Dr.-Ing. Sebastian Hellmann</person>
                 <track>Data Networks</track>
-                <room>Vorträge</room>
+                <room>Main Track</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkHellmann</slug>
             </event>
@@ -192,20 +192,20 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <duration>00:20</duration>
                 <person>Natanael Arndt</person>
                 <track>Data Networks</track>
-                <room>Vorträge</room>
+                <room>Main Track</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkArndt</slug>
             </event>
         
             
             <event id="999">
-                <title>Kaffeepause und Postersession</title>
+                <title>Coffee Break and Postersession</title>
                 <date>2019-05-22T15:30:00Z</date>
                 <start>15:30</start>
                 <duration>00:45</duration>
                 <person></person>
                 <track>Break</track>
-                <room>Vorträge</room>
+                <room>Main Track</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#zweiteKaffeePause</slug>
             </event>
@@ -218,7 +218,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <duration>00:20</duration>
                 <person>Raul Palma</person>
                 <track></track>
-                <room>Vorträge</room>
+                <room>Main Track</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkPalma</slug>
             </event>
@@ -229,9 +229,9 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <date>2019-05-22T16:35:00Z</date>
                 <start>16:35</start>
                 <duration>00:25</duration>
-                <person>Simon Bin, Patrick Westphal</person>
+                <person>Patrick Westphal, Simon Bin</person>
                 <track></track>
-                <room>Vorträge</room>
+                <room>Main Track</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkQrowd</slug>
             </event>
@@ -244,20 +244,20 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <duration>00:20</duration>
                 <person>Prof. Dr. Thomas Riechert</person>
                 <track></track>
-                <room>Vorträge</room>
+                <room>Main Track</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkRiechert</slug>
             </event>
         
             
             <event id="1227">
-                <title>Poster Winner and Closing</title>
+                <title>Poster Gewinner und Abschluss</title>
                 <date>2019-05-22T17:30:00Z</date>
                 <start>17:30</start>
                 <duration>00:30</duration>
                 <person></person>
-                <track>Vorträge</track>
-                <room>Vorträge</room>
+                <track>Main Track</track>
+                <room>Main Track</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#closing</slug>
             </event>
@@ -280,7 +280,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         
             
             <event id="998">
-                <title>Lunch Break</title>
+                <title>Mittagspause</title>
                 <date>2019-05-22T12:20:00Z</date>
                 <start>12:20</start>
                 <duration>01:10</duration>
@@ -306,7 +306,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         
             
             <event id="999">
-                <title>Kaffeepause und Postersession</title>
+                <title>Coffee Break and Postersession</title>
                 <date>2019-05-22T15:30:00Z</date>
                 <start>15:30</start>
                 <duration>00:45</duration>
@@ -319,7 +319,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         
             
             <event id="202">
-                <title>Using Jekyll RDF</title>
+                <title>Jekyll RDF Benutzung</title>
                 <date>2019-05-22T16:15:00Z</date>
                 <start>16:15</start>
                 <duration>00:45</duration>
@@ -353,19 +353,18 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <track>Hackathon</track>
                 <room>Hackathon</room>
                 <description><![CDATA[
-    <p>Der Thinktank und Hackathon <em>“Artificial Intelligence for Smart Agriculture”</em> ist Teil vom Leipziger Semantic Web Tag (LSWT) am 22. Mai 2019. Die Veranstaltung wird durch die Projekte <a href="https://infai.org/databio/">DataBio</a>, Bridge2Era sowie <a href="https://www.pnoconsultants.com/it/">CIAOTECH/PNO</a> unterstützt. Ziel des Thinktank &amp; Hackathon ist es, neue Ideen und Werkzeuge zu entwickeln, die den Einsatz von Künstlicher Intelligenz (KI) im landwirtschaftlichen Bereich und für eine nachhaltige Bioökonomie demonstrieren können. Einen besonderen Stellenwert wird das Thema “Verwendung und Auswirkung von verknüpften Daten für KI-Komponenten” im Programm einnehmen. Hacks werden vorrangig in Teams organisiert. Diese Teams werden gebildet, indem die Hauptideen zuerst von den "Ideengebern" vorgestellt werden, danach können sich die TeilnehmerInnen den verschiedenen Teams anschließen. Weiterhin werden kleinere Workshops die Vernetzung und teamübergreifende Zusammenarbeit unterstützen. Weiterhin werden Diskussionen über zukünftige Kooperationen und Ideen für die Zukunft der KI-basierten Smart Agriculture stattfinden. Der zweite Teil des Hackathons wird dann am 23. Mai 2019 am <a href=”https://www.mediencampus-villa-ida.de/de/campus/>Mediencampus Villa Ida</a>.stattfinden.</p>
-
-    <p><em>Kurz zusammengefasst</em>: Die Veranstaltung umfasst Hacking vor Ort, Workshops sowie die Präsentation der Ergebnisse. Alle Interessierten sind herzlich eingeladen am 22. Mai 2019 am Hackathon in Leipzig teilzunehmen und ihre Projekte zu präsentieren. <strong>Ideen für den Thinktank und Hackathon können <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXD4_shiDkiHrMSwtEbEzl746oAd-GAAmDiZex_2AUTiyDnw/viewform?usp=sf_link">hier</a></strong> eingereicht werden.</p>
-    <p>Diese Ideen wurden bereits eingereicht: </p>
+    <p>The Thinktank and Hackathon <em>“Artificial Intelligence for Smart Agriculture”</em> is part of the Leipzig Semantic Web Day (LSWT) on 22nd May 2019. The activity is supported by the projects <a href="https://infai.org/databio/">DataBio</a>, Bridge2Era as well as <a href="https://www.pnoconsultants.com/it/">CIAOTECH/PNO</a>. The goal of the thinktank &amp; hackathon is to build new ideas and small tools, which are able to demonstrate the use of AI within the agricultural domain and a sustainable bioeconomy. Especially, the use and impact of linked data for AI components will be one part of the event. Hacks will be organized in teams. Team building will be encouraged by pitching the main ideas by “idea-bringers” and find participants for the team. Small workshops and hand-offs will support networking and cross-team collaboration. Further discussions about future collaborations and ideas of the future of AI-based Smart Agriculture will be held. The second part of the hackathon will take place on 23 May 2019 at <a href=”https://www.mediencampus-villa-ida.de/de/campus/>Mediencampus Villa Ida</a>.</p>
+    <p>In a nutshell: The event includes on-site hacking, workshops as well as presentation of results. All participating teams are invited to join and present their projects. <strong>Please submit your ideas and projects <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXD4_shiDkiHrMSwtEbEzl746oAd-GAAmDiZex_2AUTiyDnw/viewform?usp=sf_link">here</a>.</strong></p>
+    <p>First registrations and ideas from:</p>
     <ul>
     <li><a href=https://www.spacelabel.be/">Spacelabel</a> [Belgien]</li>
     <ul>
     <li>Linking Information between EO (satellite) metadata (e.g. GeoDCAP-AP) and other Linked Data sources (FOODIE, DBpedia, Thesauri)</li>
     </ul>
-    <li><a href="http://www.lesprojekt.cz/en">Lesprojekt</a> [Tschechische Republik]</li>
-    <li><a href= “http://www.man.poznan.pl/online/en/”>PSNC</a> [Polen]</li>
+    <li><a href="http://www.lesprojekt.cz/en">Lesprojekt</a>[Czech Republic]</li>
+    <li><a href= “http://www.man.poznan.pl/online/en/”>PSNC</a> [Poland]</li>
     <li>AI for FOODIE Cloud?</li>
-    <li><a href= ”http://infai.org”>InfAI e.V.</a> [Deutschland]</li>
+    <li><a href= ”http://infai.org”>InfAI e.V.</a> [Germany]</li>
     <ul>
     <li>Expanding Albatross – AI for Agriculture? Scenarios and Future Work</li>
     </ul>
