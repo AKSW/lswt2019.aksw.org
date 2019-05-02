@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schedule>
-    <version>2019-04-29_17-08</version>
+    <version>2019-05-02_17-24</version>
     <conference><title>7. Leipziger Semantic Web Tag</title>
         <acronym></acronym>
         <start>2019-05-22</start>
@@ -82,7 +82,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         
             
             <event id="997">
-                <title>Coffee Break</title>
+                <title>Kaffeepause</title>
                 <date>2019-05-22T10:40:00Z</date>
                 <start>10:40</start>
                 <duration>00:20</duration>
@@ -121,15 +121,15 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         
             
             <event id="123">
-                <title>Forschungskompass - Transparenz für interdisziplinäre Forschungsnetzwerke</title>
+                <title>An Ontology Engineering Approach to Support Personalized Gamification of CSCL</title>
                 <date>2019-05-22T11:40:00Z</date>
                 <start>11:40</start>
                 <duration>00:20</duration>
-                <person>Stefan Wolff</person>
+                <person>Seiji Isotani</person>
                 <track>Linking Research</track>
                 <room>Main Track</room>
                 <description><![CDATA[]]></description>
-                <slug>https://lswt2019.aksw.org/#talkWolff</slug>
+                <slug>https://lswt2019.aksw.org/#talkSeiji</slug>
             </event>
         
             
@@ -199,7 +199,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         
             
             <event id="999">
-                <title>Coffee Break and Postersession</title>
+                <title>Kaffeepause und Postersession</title>
                 <date>2019-05-22T15:30:00Z</date>
                 <start>15:30</start>
                 <duration>00:45</duration>
@@ -228,8 +228,8 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <title>Das QROWD-Projekt - Because Big Data Integration is Humanly Possible</title>
                 <date>2019-05-22T16:35:00Z</date>
                 <start>16:35</start>
-                <duration>00:25</duration>
-                <person>Simon Bin, Patrick Westphal</person>
+                <duration>00:20</duration>
+                <person>Patrick Westphal, Simon Bin</person>
                 <track></track>
                 <room>Main Track</room>
                 <description><![CDATA[]]></description>
@@ -239,14 +239,27 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
             
             <event id="144">
                 <title>Semantic Web in the Digital Humanities</title>
-                <date>2019-05-22T17:00:00Z</date>
-                <start>17:00</start>
+                <date>2019-05-22T16:55:00Z</date>
+                <start>16:55</start>
                 <duration>00:20</duration>
                 <person>Prof. Dr. Thomas Riechert</person>
                 <track></track>
                 <room>Main Track</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkRiechert</slug>
+            </event>
+        
+            
+            <event id="145">
+                <title>Forschungskompass - Transparenz für interdisziplinäre Forschungsnetzwerke</title>
+                <date>2019-05-22T17:15:00Z</date>
+                <start>17:15</start>
+                <duration>00:20</duration>
+                <person>Stefan Wolff</person>
+                <track></track>
+                <room>Main Track</room>
+                <description><![CDATA[]]></description>
+                <slug>https://lswt2019.aksw.org/#talkWolff</slug>
             </event>
         
             
@@ -267,7 +280,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         <room name="Tutorials">
             
             <event id="997">
-                <title>Coffee Break</title>
+                <title>Kaffeepause</title>
                 <date>2019-05-22T10:40:00Z</date>
                 <start>10:40</start>
                 <duration>00:20</duration>
@@ -306,7 +319,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         
             
             <event id="999">
-                <title>Coffee Break and Postersession</title>
+                <title>Kaffeepause und Postersession</title>
                 <date>2019-05-22T15:30:00Z</date>
                 <start>15:30</start>
                 <duration>00:45</duration>
@@ -319,7 +332,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         
             
             <event id="202">
-                <title>Using Jekyll RDF</title>
+                <title>Jekyll RDF Benutzung</title>
                 <date>2019-05-22T16:15:00Z</date>
                 <start>16:15</start>
                 <duration>00:45</duration>
@@ -330,11 +343,11 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
 <p><a href="https://jekyllrb.com/">Jekyll</a> ist ein Werkzeug zur simplen Erzeugung von statischen Webseiten oder Blogs. Durch eine große Auswahl an Plugins und Themes lassen sich auch sehr mächtige und vielseitige Webseiten erstellen. <a href="https://github.com/white-gecko/jekyll-rdf">Jekyll RDF</a> (<a href="https://rubygems.org/gems/jekyll-rdf">rubygem</a>) erweitert Jekyll um die Möglichkeit Seiten mit Daten aus einem RDF-Graphen anzureichern. Diese Möglichkeit reicht so weit, dass ganze Webseiten ihren vollständigen Inhalt aus einem RDF-Graphen erhalten. So ist Jekyll RDF ein einfaches Werkzeug, um RDF-Daten für Menschen lesbar im Web zu publizieren. (Jekyll steckt übrigens auch hinter GitHub-Pages und Ihr könnt Seiten die mit Jekyll erzeugt wurden auch auf GitHub-Pages veröffentlichen.)</p>
 <h4 id="was-lernt-ihr-im-tutorial">Was lernt Ihr im Tutorial</h4>
 <p>Im Tutorial lernt Ihr Jekyll mit seiner Template-Sprache kennen und wir erzeugen einfache Jekyll-Templates. Anschließend binden wir einen RDF-Graphen ein und erweitern die Jekyll-Templates um die RDF-spezifischen Filter. Nach dem Tutorial wisst ihr, wie man Jekyll bedient und einen RDF-Graphen anschaulich publizieren könnt.</p>
-<h4 id="voraussetzungenrequirements-1">Requirements</h4>
-<p>Please bring this to the tutorial:</p>
+<h4 id="voraussetzungenrequirements-1">Voraussetzungen</h4>
+<p>Bitte bringen Sie folgendes zum Tutorial mit:</p>
 <ul>
   <li>Laptop</li>
-  <li>ruby &gt;= 2.1 with bundler or docker</li>
+  <li>ruby &gt;= 2.1 mit bundler oder docker</li>
 </ul>
     ]]></description>
                 <slug>https://lswt2019.aksw.org/#jekyllrdf</slug>
