@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schedule>
-    <version>2019-05-06_20-15</version>
+    <version>2019-05-07_12-17</version>
     <conference><title>7. Leipziger Semantic Web Tag</title>
         <acronym></acronym>
         <start>2019-05-22</start>
@@ -8,16 +8,16 @@
         <generator>Jekyll v3.6.3</generator>
     </conference>
     <day date="2019-05-22" start="2019-05-22" end="2019-05-22" index="1">
-        <room name="Main Track">
+        <room name="Vorträge">
             
             <event id="101">
-                <title>Begrüßung</title>
+                <title>Welcome</title>
                 <date>2019-05-22T09:00:00Z</date>
                 <start>09:00</start>
                 <duration>00:10</duration>
-                <person>Dr. Sebastian Tramp, Andreas Heinecke</person>
-                <track>Main Track</track>
-                <room>Main Track</room>
+                <person>Andreas Heinecke, Dr. Sebastian Tramp</person>
+                <track>Vorträge</track>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#begruessung</slug>
             </event>
@@ -29,8 +29,8 @@
                 <start>09:10</start>
                 <duration>00:20</duration>
                 <person>Prof. Dr. Sören Auer</person>
-                <track>Main Track</track>
-                <room>Main Track</room>
+                <track>Vorträge</track>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkAuer</slug>
             </event>
@@ -42,8 +42,8 @@
                 <start>09:30</start>
                 <duration>00:20</duration>
                 <person>Prof. Dr. Birgitta König-Ries</person>
-                <track>Main Track</track>
-                <room>Main Track</room>
+                <track>Vorträge</track>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkKoenigRies</slug>
             </event>
@@ -55,8 +55,8 @@
                 <start>09:50</start>
                 <duration>00:20</duration>
                 <person>Seiji Isotani</person>
-                <track>Main Track</track>
-                <room>Main Track</room>
+                <track>Vorträge</track>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkSeiji</slug>
             </event>
@@ -67,9 +67,9 @@
                 <date>2019-05-22T10:15:00Z</date>
                 <start>10:15</start>
                 <duration>00:30</duration>
-                <person>Prof. Dr. Vera Meister, Prof. Dr. Thomas Riechert, Prof. Dr. Andreas Both</person>
-                <track>Main Track</track>
-                <room>Main Track</room>
+                <person>Prof. Dr. Vera Meister, Prof. Dr. Andreas Both, Prof. Dr. Thomas Riechert</person>
+                <track>Vorträge</track>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#studentProgramTeaching</slug>
             </event>
@@ -81,8 +81,8 @@
                 <start>10:45</start>
                 <duration>00:15</duration>
                 <person></person>
-                <track>Main Track</track>
-                <room>Main Track</room>
+                <track>Vorträge</track>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#studentProgramPitches</slug>
             </event>
@@ -94,8 +94,8 @@
                 <start>11:00</start>
                 <duration>00:20</duration>
                 <person></person>
-                <track>Pause</track>
-                <room>Main Track</room>
+                <track>Break</track>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#ersteKaffeePause</slug>
             </event>
@@ -107,8 +107,8 @@
                 <start>11:20</start>
                 <duration>00:20</duration>
                 <person>Konrad Höffner</person>
-                <track>Main Track</track>
-                <room>Main Track</room>
+                <track>Vorträge</track>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkSNIK</slug>
             </event>
@@ -120,8 +120,8 @@
                 <start>11:40</start>
                 <duration>00:20</duration>
                 <person>Prof. Dr. Thomas Riechert</person>
-                <track>Main Track</track>
-                <room>Main Track</room>
+                <track>Vorträge</track>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkRiechert</slug>
             </event>
@@ -133,8 +133,8 @@
                 <start>12:00</start>
                 <duration>00:20</duration>
                 <person>Prof. Dr. Hans-Gert Gräbe</person>
-                <track>Main Track</track>
-                <room>Main Track</room>
+                <track>Vorträge</track>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkGraebe</slug>
             </event>
@@ -145,9 +145,9 @@
                 <date>2019-05-22T12:20:00Z</date>
                 <start>12:20</start>
                 <duration>00:20</duration>
-                <person>Patrick Westphal, Simon Bin</person>
-                <track>Main Track</track>
-                <room>Main Track</room>
+                <person>Simon Bin, Patrick Westphal</person>
+                <track>Vorträge</track>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkQrowd</slug>
             </event>
@@ -159,8 +159,8 @@
                 <start>12:40</start>
                 <duration>01:05</duration>
                 <person></person>
-                <track>Pause</track>
-                <room>Main Track</room>
+                <track>Break</track>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#MittagsPause</slug>
             </event>
@@ -173,7 +173,7 @@
                 <duration>00:30</duration>
                 <person>Prof. Dr. Andreas Both</person>
                 <track>Keynote</track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[Short CV:
 Prof. Dr. Andreas Both studierte Informatik an der Martin-Luther-Universität und promovierte ebendort im Forschungsfeld Software Engineering.
 In leitender Position war in verschiedenen Unternehmen in den Felder e-Commerce und Business Software tätig und verantwortete Technologie orientierte Innovationen in Eigenentwicklung, mit Partnern sowie in zahlreichen (internationalen) F&E-Projekten.
@@ -192,7 +192,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <duration>00:20</duration>
                 <person>Markus Freudenberg</person>
                 <track>Linked Data in Enterprise Use-Cases</track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkXCOR</slug>
             </event>
@@ -205,7 +205,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <duration>00:20</duration>
                 <person>Dr. Lisa Wenige</person>
                 <track>Linked Data in Enterprise Use-Cases</track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkLIMBO</slug>
             </event>
@@ -218,7 +218,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <duration>00:20</duration>
                 <person>Magnus Knuth</person>
                 <track>Linked Data in Enterprise Use-Cases</track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkGeniusTex</slug>
             </event>
@@ -231,7 +231,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <duration>00:15</duration>
                 <person>Natanael Arndt</person>
                 <track>Linked Data in Enterprise Use-Cases</track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkArndt</slug>
             </event>
@@ -243,8 +243,8 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <start>15:30</start>
                 <duration>00:30</duration>
                 <person></person>
-                <track>Pause</track>
-                <room>Main Track</room>
+                <track>Break</track>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#zweiteKaffeePause</slug>
             </event>
@@ -257,7 +257,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <duration>00:20</duration>
                 <person>Stefan Wolff</person>
                 <track>Data Networks</track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkWolff</slug>
             </event>
@@ -270,7 +270,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <duration>00:20</duration>
                 <person>Dr.-Ing. Sebastian Hellmann</person>
                 <track>Data Networks</track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkHellmann</slug>
             </event>
@@ -283,7 +283,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <duration>00:20</duration>
                 <person>Marcin Krystek</person>
                 <track>Data Networks</track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkKrystek</slug>
             </event>
@@ -296,20 +296,20 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <duration>00:20</duration>
                 <person>Dr. Michael Galkin</person>
                 <track>Data Networks</track>
-                <room>Main Track</room>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#talkGalkin</slug>
             </event>
         
             
             <event id="1227">
-                <title>Poster Winner and Closing</title>
+                <title>Poster Gewinner und Abschluss</title>
                 <date>2019-05-22T17:45:00Z</date>
                 <start>17:45</start>
                 <duration>00:30</duration>
                 <person></person>
-                <track>Main Track</track>
-                <room>Main Track</room>
+                <track>Vorträge</track>
+                <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#closing</slug>
             </event>
@@ -324,7 +324,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <start>11:00</start>
                 <duration>00:20</duration>
                 <person></person>
-                <track>Pause</track>
+                <track>Break</track>
                 <room></room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#ersteKaffeePause</slug>
@@ -337,7 +337,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <start>12:40</start>
                 <duration>01:05</duration>
                 <person></person>
-                <track>Pause</track>
+                <track>Break</track>
                 <room></room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#MittagsPause</slug>
@@ -350,7 +350,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <start>15:30</start>
                 <duration>00:30</duration>
                 <person></person>
-                <track>Pause</track>
+                <track>Break</track>
                 <room></room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#zweiteKaffeePause</slug>
