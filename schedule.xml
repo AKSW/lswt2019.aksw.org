@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schedule>
-    <version>2019-05-06_20-10</version>
+    <version>2019-05-07_10-07</version>
     <conference><title>7th Leipzig Semantic Web Day</title>
         <acronym></acronym>
         <start>2019-05-22</start>
@@ -67,7 +67,7 @@
                 <date>2019-05-22T10:15:00Z</date>
                 <start>10:15</start>
                 <duration>00:30</duration>
-                <person>Prof. Dr. Vera Meister, Prof. Dr. Andreas Both, Prof. Dr. Thomas Riechert</person>
+                <person>Prof. Dr. Vera Meister, Prof. Dr. Thomas Riechert, Prof. Dr. Andreas Both</person>
                 <track>Main Track</track>
                 <room>Main Track</room>
                 <description><![CDATA[]]></description>
@@ -89,7 +89,7 @@
         
             
             <event id="997">
-                <title>Kaffeepause und Postersession</title>
+                <title>Coffee Break and Postersession</title>
                 <date>2019-05-22T11:00:00Z</date>
                 <start>11:00</start>
                 <duration>00:20</duration>
@@ -238,7 +238,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         
             
             <event id="999">
-                <title>Kaffeepause und Postersession</title>
+                <title>Coffee Break and Postersession</title>
                 <date>2019-05-22T15:30:00Z</date>
                 <start>15:30</start>
                 <duration>00:30</duration>
@@ -319,7 +319,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         <room name="">
             
             <event id="997">
-                <title>Kaffeepause und Postersession</title>
+                <title>Coffee Break and Postersession</title>
                 <date>2019-05-22T11:00:00Z</date>
                 <start>11:00</start>
                 <duration>00:20</duration>
@@ -345,7 +345,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         
             
             <event id="999">
-                <title>Kaffeepause und Postersession</title>
+                <title>Coffee Break and Postersession</title>
                 <date>2019-05-22T15:30:00Z</date>
                 <start>15:30</start>
                 <duration>00:30</duration>
