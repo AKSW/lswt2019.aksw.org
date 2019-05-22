@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schedule>
-    <version>2019-05-22_08-21</version>
-    <conference><title>7. Leipziger Semantic Web Tag</title>
+    <version>2019-05-22_08-38</version>
+    <conference><title>7th Leipzig Semantic Web Day</title>
         <acronym></acronym>
         <start>2019-05-22</start>
         <end>2019-05-22</end>
@@ -11,7 +11,7 @@
         <room name="Vorträge">
             
             <event id="101">
-                <title>Begrüßung</title>
+                <title>Welcome</title>
                 <date>2019-05-22T09:00:00Z</date>
                 <start>09:00</start>
                 <duration>00:10</duration>
@@ -67,7 +67,7 @@
                 <date>2019-05-22T10:15:00Z</date>
                 <start>10:15</start>
                 <duration>00:30</duration>
-                <person>Prof. Dr. Thomas Riechert, Prof. Dr. Andreas Both, Prof. Dr. Vera Meister</person>
+                <person>Prof. Dr. Andreas Both, Prof. Dr. Thomas Riechert, Prof. Dr. Vera Meister</person>
                 <track>Vorträge</track>
                 <room>Vorträge</room>
                 <description><![CDATA[]]></description>
@@ -89,12 +89,12 @@
         
             
             <event id="997">
-                <title>Kaffeepause und Postersession</title>
+                <title>Coffee Break and Postersession</title>
                 <date>2019-05-22T11:00:00Z</date>
                 <start>11:00</start>
                 <duration>00:20</duration>
                 <person></person>
-                <track>Pause</track>
+                <track>Break</track>
                 <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#ersteKaffeePause</slug>
@@ -106,7 +106,7 @@
                 <date>2019-05-22T11:20:00Z</date>
                 <start>11:20</start>
                 <duration>00:20</duration>
-                <person>Simon Bin, Patrick Westphal</person>
+                <person>Patrick Westphal, Simon Bin</person>
                 <track>Vorträge</track>
                 <room>Vorträge</room>
                 <description><![CDATA[]]></description>
@@ -154,12 +154,12 @@
         
             
             <event id="998">
-                <title>Mittagspause</title>
+                <title>Lunch Break</title>
                 <date>2019-05-22T12:40:00Z</date>
                 <start>12:40</start>
                 <duration>01:05</duration>
                 <person></person>
-                <track>Pause</track>
+                <track>Break</track>
                 <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#MittagsPause</slug>
@@ -238,12 +238,12 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         
             
             <event id="999">
-                <title>Kaffeepause und Postersession</title>
+                <title>Coffee Break and Postersession</title>
                 <date>2019-05-22T15:30:00Z</date>
                 <start>15:30</start>
                 <duration>00:30</duration>
                 <person></person>
-                <track>Pause</track>
+                <track>Break</track>
                 <room>Vorträge</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#zweiteKaffeePause</slug>
@@ -268,7 +268,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <date>2019-05-22T16:20:00Z</date>
                 <start>16:20</start>
                 <duration>00:20</duration>
-                <person>Prof. Dr. Andreas Thor, Roy Meissner</person>
+                <person>Roy Meissner, Prof. Dr. Andreas Thor</person>
                 <track>Data Networks</track>
                 <room>Vorträge</room>
                 <description><![CDATA[]]></description>
@@ -332,12 +332,12 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         <room name="Tutorials">
             
             <event id="997">
-                <title>Kaffeepause und Postersession</title>
+                <title>Coffee Break and Postersession</title>
                 <date>2019-05-22T11:00:00Z</date>
                 <start>11:00</start>
                 <duration>00:20</duration>
                 <person></person>
-                <track>Pause</track>
+                <track>Break</track>
                 <room>Tutorials</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#ersteKaffeePause</slug>
@@ -345,12 +345,12 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         
             
             <event id="998">
-                <title>Mittagspause</title>
+                <title>Lunch Break</title>
                 <date>2019-05-22T12:40:00Z</date>
                 <start>12:40</start>
                 <duration>01:05</duration>
                 <person></person>
-                <track>Pause</track>
+                <track>Break</track>
                 <room>Tutorials</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#MittagsPause</slug>
@@ -369,25 +369,26 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
 <p>Social Linked Data, Distributed Data</p>
 
 <ol>
-<li>What is SOLID (Introduction)</li>
-<li>Solid Use case (Benefits & Current trend)</li>
-<li>Solid Applications</li>
-<li>Our Project based on Solid Framework</li>
+<li>Was ist SOLID (Einführung)</li>
+<li>Solid Use case (Vorteile & aktueller Trend)</li>
+<li>Solid Anwendungen</li>
+<li>User Projekt basierend auf dem Solid Framework</li>
 </ol>
 
-<p>Organized by Students from the Web Engineering course at the TU Chemnitz with a demonstration of the project results.</p>
-    ]]></description>
+<p>Organisiert von Studenten des Web Engineering Kurses an der TU Chemnitz mit einer Demonstration der Projektergebnisse.</p>
+<p>(Englisch)</p>
+]]></description>
                 <slug>https://lswt2019.aksw.org/#solid</slug>
             </event>
         
             
             <event id="999">
-                <title>Kaffeepause und Postersession</title>
+                <title>Coffee Break and Postersession</title>
                 <date>2019-05-22T15:30:00Z</date>
                 <start>15:30</start>
                 <duration>00:30</duration>
                 <person></person>
-                <track>Pause</track>
+                <track>Break</track>
                 <room>Tutorials</room>
                 <description><![CDATA[]]></description>
                 <slug>https://lswt2019.aksw.org/#zweiteKaffeePause</slug>
