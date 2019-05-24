@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schedule>
-    <version>2019-05-22_08-38</version>
-    <conference><title>7th Leipzig Semantic Web Day</title>
+    <version>2019-05-24_14-30</version>
+    <conference><title>7. Leipziger Semantic Web Tag</title>
         <acronym></acronym>
         <start>2019-05-22</start>
         <end>2019-05-22</end>
@@ -11,7 +11,7 @@
         <room name="Vorträge">
             
             <event id="101">
-                <title>Welcome</title>
+                <title>Begrüßung</title>
                 <date>2019-05-22T09:00:00Z</date>
                 <start>09:00</start>
                 <duration>00:10</duration>
@@ -67,7 +67,7 @@
                 <date>2019-05-22T10:15:00Z</date>
                 <start>10:15</start>
                 <duration>00:30</duration>
-                <person>Prof. Dr. Andreas Both, Prof. Dr. Thomas Riechert, Prof. Dr. Vera Meister</person>
+                <person>Prof. Dr. Vera Meister, Prof. Dr. Andreas Both, Prof. Dr. Thomas Riechert</person>
                 <track>Vorträge</track>
                 <room>Vorträge</room>
                 <description><![CDATA[]]></description>
@@ -268,7 +268,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
                 <date>2019-05-22T16:20:00Z</date>
                 <start>16:20</start>
                 <duration>00:20</duration>
-                <person>Roy Meissner, Prof. Dr. Andreas Thor</person>
+                <person>Prof. Dr. Andreas Thor, Roy Meissner</person>
                 <track>Data Networks</track>
                 <room>Vorträge</room>
                 <description><![CDATA[]]></description>
@@ -396,7 +396,7 @@ Er ist Autor vielfältiger Präsentationen und Publikationen im Bereich Web Engi
         
             
             <event id="202">
-                <title>Jekyll RDF Benutzung</title>
+                <title>Using Jekyll RDF</title>
                 <date>2019-05-22T16:00:00Z</date>
                 <start>16:00</start>
                 <duration>00:45</duration>
